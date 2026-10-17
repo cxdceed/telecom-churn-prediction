@@ -122,3 +122,6 @@ Quick CI-sized run: `python -m src.generate_data --n-customers 3000 --out /tmp/r
 
 ## 9. License and disclaimer
 MIT (see `LICENSE`). Synthetic data only; no real customer information was used. Not affiliated with any telecom operator.
+
+## 10. Author: Abdullahi M. Cadceed
+@cxdceed on LinkedIn
