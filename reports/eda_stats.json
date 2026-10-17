@@ -1,0 +1,48 @@
+{
+  "n_customers": 50000,
+  "overall_churn_rate": 0.07924,
+  "chi2_contract_vs_churn": {
+    "chi2": 2269.8095756106677,
+    "dof": 2,
+    "p_value": 0.0,
+    "cramers_v": 0.21306382027977758
+  },
+  "mannwhitney_usage_change_60d_pct": {
+    "median_churn": -22.000669762602065,
+    "median_retained": -2.7041599387101547,
+    "p_value": 0.0,
+    "rank_biserial": 0.44410270215730974
+  },
+  "mannwhitney_tickets_30d": {
+    "median_churn": 1.0,
+    "median_retained": 0.0,
+    "p_value": 0.0,
+    "rank_biserial": -0.35575857281298195
+  },
+  "mannwhitney_monthly_charge": {
+    "median_churn": 85.125,
+    "median_retained": 64.0,
+    "p_value": 4.376538202561673e-199,
+    "rank_biserial": -0.2877587088198479
+  },
+  "mannwhitney_tenure_months": {
+    "median_churn": 10.0,
+    "median_retained": 24.0,
+    "p_value": 0.0,
+    "rank_biserial": 0.45108169427187195
+  },
+  "churn_rate_by_contract": {
+    "Month-to-month": 0.1313,
+    "One year": 0.0234,
+    "Two year": 0.0069
+  },
+  "churn_rate_by_tickets_30d": {
+    "0": 0.0463,
+    "1": 0.1363,
+    "2": 0.2299,
+    "3": 0.2231
+  },
+  "churn_rate_usage_drop_over20pct": 0.29251895293949365,
+  "share_of_customers_usage_drop_over20pct": 0.13982,
+  "churners_without_usage_drop_or_ticket_spike": 0.21706208985360928
+}

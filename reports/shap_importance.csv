@@ -1,0 +1,57 @@
+,mean_abs_shap
+contract_type_Month-to-month,0.6385151
+tenure_months,0.53037345
+usage_change_60d_pct,0.46774396
+monthly_charge,0.33407405
+device_financing_months_left,0.32453737
+data_gb_volatility,0.26363972
+ticket_spike_ratio,0.21942471
+contract_type_Two year,0.17781286
+days_since_last_ticket,0.16314037
+unresolved_tickets,0.14686973
+avg_days_late,0.14588267
+competitor_promo_active,0.14416967
+network_tickets_90d,0.12773676
+billing_tickets_90d,0.12111043
+autopay,0.11739737
+late_payments_6m,0.087773174
+age,0.0815576
+charge_per_line,0.075496964
+avg_resolution_hours,0.06839036
+avg_csat,0.052660935
+charge_change_6m_pct,0.044038095
+data_gb_baseline_3m,0.036938164
+data_gb_avg_6m,0.034925334
+region_type_Rural,0.032749977
+payment_method_Mailed check,0.03209812
+months_with_overage,0.031922642
+avg_overage_6m,0.030804794
+data_gb_recent_2m,0.02374603
+tickets_30d,0.019347824
+tickets_90d,0.017197318
+region_Southeast,0.015653599
+has_streaming_addon,0.013948659
+region_type_Urban,0.012450905
+region_Northeast,0.012269303
+missingindicator_avg_resolution_hours,0.010435997
+tickets_180d,0.009830877
+num_lines,0.008896533
+recent_price_increase,0.007846233
+contract_type_One year,0.0047436426
+region_West,0.004597726
+region_type_Suburban,0.0045073633
+region_Southwest,0.0041788523
+payment_method_Debit card,0.0038184572
+missingindicator_avg_csat,0.003738146
+plan_type_Unlimited,0.0036358198
+has_intl_addon,0.0032785528
+region_Midwest,0.0029601231
+payment_method_Credit card,0.0029091628
+plan_type_Standard,0.0026945905
+missingindicator_age,0.0026331611
+payment_method_Bank transfer,0.0025011532
+plan_type_Basic,0.0014579152
+paperless_billing,0.0012421812
+plan_type_Premium,0.0011222762
+missingindicator_days_since_last_ticket,0.0006140672
+payment_method_Unknown,0.0

@@ -1,0 +1,53 @@
+,odds_ratio_per_sd
+data_gb_volatility,2.119754842169648
+monthly_charge,1.9164881771380249
+contract_type_Month-to-month,1.6867149602010314
+tickets_30d,1.55484424904525
+late_payments_6m,1.3704039742055496
+data_gb_recent_2m,1.3356776186694324
+billing_tickets_90d,1.3348902361482249
+unresolved_tickets,1.3011069824052734
+network_tickets_90d,1.2945413483139327
+competitor_promo_active,1.1966110614604395
+months_with_overage,1.176725261847167
+data_gb_avg_6m,1.1604131622127791
+recent_price_increase,1.066376676193758
+charge_change_6m_pct,1.063884510660952
+avg_resolution_hours,1.0555972632721593
+paperless_billing,1.0225046353224747
+has_streaming_addon,1.0067135827546552
+has_intl_addon,1.0007101768055613
+charge_per_line,0.9931733831321145
+avg_days_late,0.9900902574845277
+avg_overage_6m,0.9773479112806188
+ticket_spike_ratio,0.9154891943984765
+age,0.9129329274248074
+tickets_180d,0.8959711082486328
+autopay,0.8850923171187066
+avg_csat,0.858065737547609
+num_lines,0.8300771682041047
+payment_method_Mailed check,0.7835561609580194
+days_since_last_ticket,0.7683083801347725
+region_Southwest,0.7365489436603421
+region_West,0.7221595992799824
+usage_change_60d_pct,0.7184220770827949
+region_Midwest,0.7050089068910916
+payment_method_Debit card,0.6995368324559056
+payment_method_Bank transfer,0.694396786917973
+payment_method_Credit card,0.6852935243774481
+device_financing_months_left,0.674225993076581
+plan_type_Unlimited,0.6651354029106399
+region_Northeast,0.6556830299922154
+plan_type_Premium,0.6516940355942702
+region_Southeast,0.6434452876439282
+data_gb_baseline_3m,0.6339634049274135
+region_type_Rural,0.619771580707039
+tickets_90d,0.6140691433394659
+plan_type_Standard,0.6137399915444154
+payment_method_Unknown,0.6065546339056167
+plan_type_Basic,0.5946983557516089
+region_type_Suburban,0.5090341575234179
+region_type_Urban,0.5014831993297275
+contract_type_One year,0.45147476523436436
+tenure_months,0.4401606544398264
+contract_type_Two year,0.20775897490075035

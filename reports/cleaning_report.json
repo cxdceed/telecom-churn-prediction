@@ -1,0 +1,13 @@
+{
+  "rows_in": 50150,
+  "duplicate_rows_removed": 150,
+  "contract_labels_standardised": 399,
+  "impossible_ages_set_to_nan": 163,
+  "age_missing_total": 1616,
+  "monthly_charge_recovered_from_billing": 257,
+  "payment_method_missing_to_unknown": 466,
+  "rows_out": 50000,
+  "billing_rows": 300000,
+  "ticket_rows": 56045,
+  "label_rows": 50000
+}

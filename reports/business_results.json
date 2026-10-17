@@ -1,0 +1,68 @@
+{
+  "champion": "xgboost",
+  "lift_by_decile": {
+    "1": 6.691919191919192,
+    "2": 1.5909090909090908,
+    "3": 0.6313131313131313,
+    "4": 0.32828282828282823,
+    "5": 0.30303030303030304,
+    "6": 0.21464646464646464,
+    "7": 0.18939393939393936,
+    "8": 0.012626262626262626,
+    "9": 0.03787878787878788,
+    "10": 0.0
+  },
+  "business": {
+    "holdout_customers": 10000,
+    "holdout_churners": 792,
+    "optimal_contact_fraction": 0.0804,
+    "optimal_contacted": 804,
+    "optimal_churners_reached": 497,
+    "optimal_net_value": 52181.836800000034,
+    "optimal_precision": 0.6181592039800995,
+    "top10_net_value": 51098.98080000002,
+    "random_same_budget_net_value": -13547.92858176,
+    "value_aware_rule": {
+      "contacted": 900,
+      "contact_fraction": 0.09,
+      "net_value": 54075.21119999999
+    },
+    "assumptions": {
+      "offer_cost": 25.0,
+      "contact_cost": 3.0,
+      "save_rate": 0.3,
+      "retained_months": 12,
+      "gross_margin": 0.4
+    },
+    "min_sensitivity_net_value": 6430.214400000019,
+    "max_sensitivity_net_value": 115823.17440000016
+  },
+  "top_shap_features": {
+    "contract_type_Month-to-month": 0.6384999752044678,
+    "tenure_months": 0.5303999781608582,
+    "usage_change_60d_pct": 0.4677000045776367,
+    "monthly_charge": 0.33410000801086426,
+    "device_financing_months_left": 0.3244999945163727,
+    "data_gb_volatility": 0.2635999917984009,
+    "ticket_spike_ratio": 0.21940000355243683,
+    "contract_type_Two year": 0.1777999997138977,
+    "days_since_last_ticket": 0.163100004196167,
+    "unresolved_tickets": 0.1468999981880188
+  },
+  "logistic_top_odds_ratios": {
+    "data_gb_volatility": 2.12,
+    "monthly_charge": 1.92,
+    "contract_type_Month-to-month": 1.69,
+    "tickets_30d": 1.55,
+    "late_payments_6m": 1.37,
+    "data_gb_recent_2m": 1.34
+  },
+  "logistic_lowest_odds_ratios": {
+    "plan_type_Basic": 0.59,
+    "region_type_Suburban": 0.51,
+    "region_type_Urban": 0.5,
+    "contract_type_One year": 0.45,
+    "tenure_months": 0.44,
+    "contract_type_Two year": 0.21
+  }
+}
