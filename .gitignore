@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.pytest_cache/
+.ruff_cache/
+# Generated artefacts: reproduce with `make all`. A small sample is committed in data/sample/.
+data/raw/*.csv
+data/processed/*
+!data/processed/.gitkeep
+models/*.joblib
+reports/*.log
+reports/holdout_predictions.csv
