@@ -1,0 +1,1003 @@
+customer_id,signup_date,tenure_months,age,region,region_type,plan_type,contract_type,num_lines,monthly_charge,has_streaming_addon,has_intl_addon,autopay,payment_method,paperless_billing,device_financing_months_left,competitor_promo_active,recent_price_increase
+C129780,2023-07-15,30,54.0,West,Suburban,Standard,One year,1,40.0,0,0,1,Bank transfer,1,0,1,0
+C139898,2019-12-03,74,54.0,Midwest,Urban,Standard,Month to month,2,56.11,0,0,1,Bank transfer,1,0,0,0
+C110470,2025-01-05,12,35.0,West,Suburban,Basic,Month-to-month,2,39.45,0,0,0,Credit card,0,0,0,0
+C119739,2024-08-08,17,27.0,Midwest,Urban,Premium,Month-to-month,1,65.9,1,0,1,Credit card,0,0,0,0
+C137116,2024-08-08,17,18.0,Southwest,Urban,Standard,One year,2,62.46,0,0,1,Credit card,1,0,0,0
+C132545,2025-07-04,6,22.0,Southwest,Urban,Standard,Two year,1,37.88,0,0,0,Credit card,1,24,0,0
+C104869,2020-05-01,69,47.0,Southeast,Rural,Premium,One year,3,114.64,0,0,1,Credit card,0,0,0,1
+C137501,2023-12-12,25,28.0,West,Urban,Premium,One year,2,89.36,0,0,0,Debit card,0,23,1,1
+C129500,2025-02-04,11,,Midwest,Urban,Basic,One year,2,34.6,0,0,0,Debit card,0,3,0,0
+C104040,2024-07-09,18,62.0,West,Urban,Basic,Month-to-month,3,60.83,1,0,1,Bank transfer,1,0,1,0
+C117606,2023-02-15,35,55.0,West,Urban,Standard,Two year,1,37.38,0,0,1,Credit card,1,0,0,0
+C110115,2025-11-01,2,65.0,Southeast,Suburban,Premium,Month-to-month,5,173.46,0,0,0,Mailed check,0,0,1,0
+C141139,2019-12-03,74,39.0,Southeast,Suburban,Standard,Two year,1,41.23,0,0,1,Bank transfer,1,0,1,0
+C117024,2025-11-01,2,40.0,Southwest,Suburban,Basic,Month-to-month,1,30.87,1,0,0,Credit card,0,0,0,0
+C145951,2025-07-04,6,18.0,Midwest,Suburban,Premium,Month-to-month,1,52.98,0,0,0,Mailed check,0,0,0,1
+C126949,2024-08-08,17,42.0,West,Urban,Standard,Month-to-month,2,71.19,1,0,0,Credit card,1,0,1,0
+C135010,2023-02-15,35,55.0,Midwest,Suburban,Premium,Month-to-month,2,90.74,0,1,1,Bank transfer,1,0,0,0
+C136491,2024-04-10,21,51.0,Southwest,Urban,Basic,Month-to-month,4,76.27,1,0,0,Mailed check,0,0,0,0
+C104026,2022-02-20,47,46.0,Southeast,Suburban,Premium,One year,1,53.72,0,0,1,Bank transfer,1,0,0,1
+C109156,2022-12-17,37,58.0,Midwest,Rural,Basic,Month-to-month,1,36.39,1,0,0,Credit card,1,0,1,1
+C135167,2020-05-31,68,71.0,Southeast,Urban,Basic,One year,1,25.2,0,0,1,,1,0,0,1
+C132195,2025-09-02,4,29.0,Midwest,Suburban,Standard,Month-to-month,1,42.5,0,0,0,Credit card,0,0,0,1
+C132151,2022-05-21,44,56.0,Southwest,Suburban,Standard,One year,2,59.15,0,0,1,Credit card,1,0,0,1
+C124897,2023-09-13,28,18.0,Southwest,Suburban,Basic,Two year,5,76.45,0,0,1,Credit card,0,0,1,0
+C104306,2023-02-15,35,24.0,Southeast,Rural,Standard,One year,4,120.37,1,0,1,Bank transfer,0,0,1,1
+C141797,2025-02-04,11,28.0,Midwest,Rural,Standard,Month-to-month,3,86.46,0,0,1,Credit card,0,0,1,0
+C146271,2025-09-02,4,51.0,Southeast,Suburban,Basic,Month-to-month,2,37.39,0,0,0,Debit card,1,8,1,1
+C124161,2022-12-17,37,57.0,Midwest,SUBURBAN,Basic,Month-to-month,4,72.83,1,0,1,Credit card,0,0,1,0
+C113738,2025-03-06,10,38.0,West,Suburban,Standard,Two year,1,49.06,0,1,1,Bank transfer,0,0,0,0
+C113543,2025-01-05,12,36.0,Northeast,Suburban,Premium,Month-to-month,2,95.33,1,0,1,Credit card,1,0,0,0
+C143511,2025-03-06,10,51.0,Southeast,Urban,Standard,Month-to-month,2,68.02,1,0,0,Debit card,0,17,0,0
+C142755,2024-06-09,19,38.0,Southeast,Suburban,Basic,One year,2,44.58,1,0,1,Bank transfer,0,0,0,0
+C130495,2025-12-01,1,52.0,Southeast,Rural,Basic,Month-to-month,2,33.7,0,0,0,Mailed check,1,0,1,1
+C101869,2023-03-17,34,69.0,Northeast,Urban,Standard,Two year,1,36.19,0,0,1,Bank transfer,1,21,1,1
+C127256,2025-08-03,5,51.0,West,Suburban,Premium,Month-to-month,1,55.21,0,0,1,Debit card,0,0,1,0
+C121833,2022-10-18,39,18.0,Northeast,Urban,Premium,Month-to-month,4,162.75,1,1,0,Mailed check,1,0,1,0
+C127070,2025-06-04,7,27.0,Northeast,Urban,Basic,Month-to-month,1,21.38,0,0,1,Credit card,0,0,0,0
+C121585,2025-05-05,8,57.0,Southwest,Urban,Standard,Month-to-month,1,55.23,1,1,0,Mailed check,1,0,0,0
+C108866,2025-09-02,4,41.0,Southwest,Suburban,Premium,Month-to-month,2,83.8,0,0,0,Mailed check,1,0,0,0
+C147475,2024-02-10,23,45.0,Northeast,Urban,Basic,One year,2,48.45,1,0,0,Mailed check,1,10,0,1
+C125911,2024-05-10,20,30.0,Northeast,Suburban,Unlimited,Month-to-month,4,195.83,1,0,1,Credit card,1,0,0,0
+C131721,2022-04-21,45,38.0,West,Suburban,Standard,Month-to-month,2,76.48,1,0,0,Debit card,0,0,1,0
+C140442,2024-11-06,14,29.0,Southeast,Urban,Premium,Month-to-month,1,56.85,0,0,0,Bank transfer,0,10,0,0
+C104502,2020-09-28,64,23.0,Midwest,Urban,Premium,One year,1,67.37,1,0,1,Bank transfer,1,0,0,0
+C103759,2022-10-18,39,70.0,Midwest,Urban,Unlimited,Month-to-month,3,149.28,0,0,0,Credit card,1,0,0,1
+C104593,2024-07-09,18,68.0,Southwest,Suburban,Standard,Month-to-month,2,80.6,1,1,1,Credit card,1,0,0,1
+C104281,2025-02-04,11,61.0,Southwest,Urban,Premium,Month-to-month,1,63.43,1,0,0,Mailed check,1,0,1,0
+C138181,2021-11-22,50,40.0,Southeast,Suburban,Basic,Two year,1,24.46,0,0,1,Credit card,1,0,1,0
+C117351,2024-04-10,21,47.0,Southwest,Suburban,Unlimited,Month-to-month,2,123.5,1,0,1,Credit card,0,0,0,0
+C102058,2023-05-16,32,43.0,West,Urban,Unlimited,Month-to-month,2,108.68,0,0,1,Credit card,1,0,1,0
+C119797,2023-08-14,29,65.0,West,Urban,Standard,Month-to-month,5,128.15,0,0,0,Debit card,1,0,1,0
+C100521,2023-07-15,30,30.0,Southeast,Suburban,Basic,Month-to-month,1,28.97,0,0,0,Credit card,1,13,0,0
+C120051,2021-02-25,59,30.0,Midwest,Urban,Standard,One year,3,98.89,1,1,1,Credit card,1,0,0,0
+C132965,2025-08-03,5,68.0,Southwest,Suburban,Premium,Month-to-month,4,145.61,0,0,0,Credit card,0,0,0,0
+C131953,2024-12-06,13,66.0,Midwest,Suburban,Premium,Month-to-month,1,50.0,0,0,0,Debit card,1,0,1,0
+C104152,2022-04-21,45,38.0,Southeast,Suburban,Basic,Month-to-month,2,47.93,1,0,0,Credit card,0,0,0,1
+C116459,2025-01-05,12,28.0,West,Rural,Basic,Month-to-month,1,33.14,1,0,0,Debit card,0,0,1,0
+C146017,2024-10-07,15,41.0,Midwest,Urban,Standard,Month-to-month,2,64.72,0,0,0,Bank transfer,0,21,0,0
+C133680,2022-10-18,39,47.0,Southeast,Rural,Premium,Two year,2,79.07,0,0,1,Credit card,0,0,0,0
+C117834,2022-07-20,42,20.0,Southwest,Suburban,Unlimited,One year,5,235.74,1,0,0,Credit card,0,21,1,1
+C127035,2023-12-12,25,46.0,Northeast,Urban,Premium,Month-to-month,3,112.86,0,0,1,Credit card,0,0,1,0
+C137634,2025-10-02,3,53.0,Southwest,Suburban,Standard,Month-to-month,4,105.92,0,0,1,Credit card,0,0,1,0
+C119863,2018-02-11,96,44.0,West,Suburban,Basic,Two year,1,22.77,0,0,1,Credit card,0,7,1,0
+C115224,2025-09-02,4,39.0,Northeast,SUBURBAN,Basic,Month-to-month,1,21.48,0,0,0,Credit card,1,0,0,0
+C115430,2023-07-15,30,29.0,West,Suburban,Standard,One year,1,47.52,1,0,1,Debit card,0,0,0,1
+C109671,2022-09-18,40,18.0,Southwest,Urban,Premium,Two year,2,93.12,0,1,0,Mailed check,1,0,0,1
+C115890,2025-01-05,12,21.0,Southwest,Urban,Basic,Month-to-month,1,29.94,1,0,0,Debit card,1,22,1,0
+C131378,2023-03-17,34,41.0,Northeast,Suburban,Basic,One year,1,28.25,0,0,1,Credit card,1,0,1,0
+C103430,2025-06-04,7,48.0,Northeast,Suburban,Unlimited,One year,4,188.14,0,0,0,Credit card,0,11,0,0
+C119166,2024-07-09,18,42.0,Southwest,Urban,Premium,Two year,3,109.97,0,0,1,Debit card,0,0,0,0
+C147838,2025-06-04,7,32.0,Southeast,Suburban,Premium,Month-to-month,2,88.63,0,0,0,Bank transfer,1,13,0,0
+C116329,2025-06-04,7,66.0,West,Urban,Unlimited,Month-to-month,2,110.14,0,0,1,Credit card,1,0,0,0
+C148069,2025-04-05,9,52.0,Southeast,Suburban,Basic,Month-to-month,3,63.65,1,0,1,Credit card,1,11,1,1
+C118764,2024-03-11,22,58.0,Midwest,Urban,Premium,Month-to-month,1,53.1,0,0,0,Bank transfer,0,19,0,0
+C125314,2025-06-04,7,75.0,Midwest,Urban,Premium,One year,1,61.71,1,0,1,Debit card,0,20,0,0
+C132065,2025-08-03,5,52.0,Northeast,Suburban,Basic,Month-to-month,1,31.27,1,0,1,Bank transfer,1,0,0,1
+C117912,2025-07-04,6,42.0,Midwest,Rural,Standard,Month-to-month,4,104.25,0,0,1,Credit card,0,0,0,0
+C126244,2025-01-05,12,57.0,Southeast,Urban,Unlimited,Month-to-month,4,195.0,0,1,0,Bank transfer,1,0,0,1
+C129104,2018-02-11,96,,Southwest,Urban,Standard,Two year,3,80.05,0,0,1,Bank transfer,0,19,1,0
+C140209,2024-02-10,23,57.0,Midwest,Suburban,Basic,Month-to-month,1,25.51,0,0,1,Bank transfer,1,0,0,1
+C129946,2023-09-13,28,25.0,West,Suburban,Basic,Two year,1,29.55,1,0,1,Debit card,0,0,0,0
+C144878,2025-09-02,4,43.0,Northeast,Suburban,Premium,Month-to-month,2,85.39,0,0,1,,1,0,0,1
+C143765,2022-09-18,40,25.0,Southeast,Urban,Standard,One year,3,83.87,0,0,1,Credit card,0,0,0,0
+C139637,2024-09-07,16,41.0,Southwest, Urban ,Standard,Month-to-month,4,103.75,0,0,0,Debit card,1,11,1,0
+C144980,2022-11-17,38,32.0,Southwest,Urban,Basic,One year,1,25.73,0,0,1,Credit card,1,19,1,0
+C121053,2024-11-06,14,42.0,Southwest,Urban,Premium,one year,3,117.93,0,0,1,Credit card,1,0,1,0
+C124236,2021-08-24,53,49.0,Northeast,Rural,Standard,One year,2,61.35,0,0,1,Bank transfer,1,0,1,0
+C101159,2023-05-16,32,,Southwest,Rural,Standard,One year,2,68.64,0,1,0,Bank transfer,1,13,0,0
+C123952,2024-01-11,24,61.0,Midwest,Urban,Basic,Month-to-month,1,33.75,1,0,0,Mailed check,0,0,0,1
+C130216,2024-04-10,21,23.0,Southeast,Suburban,Premium,Month-to-month,1,63.65,0,1,1,Debit card,1,0,1,0
+C144097,2022-06-20,43,,Southeast,Suburban,Premium,One year,4,153.25,1,0,1,Debit card,0,0,0,0
+C125342,2022-08-19,41,18.0,Southeast,Urban,Premium,Month-to-month,2,96.63,1,0,0,Mailed check,0,0,0,0
+C148048,2022-01-21,48,19.0,Southeast,Suburban,Standard,One year,3,95.69,1,0,1,Debit card,0,0,1,0
+C101550,2025-04-05,9,44.0,West,Suburban,Standard,Month-to-month,3,84.94,0,0,0,Mailed check,0,0,0,0
+C127565,2023-01-16,36,59.0,Northeast,Rural,Basic,One year,1,26.4,0,0,0,Mailed check,1,5,0,0
+C135675,2024-12-06,13,35.0,Northeast,Rural,Unlimited,Month-to-month,2,107.68,0,0,0,Bank transfer,1,0,0,0
+C103899,2025-02-04,11,53.0,Midwest,Rural,Basic,Month-to-month,2,33.32,0,0,0,Debit card,1,0,0,0
+C102546,2018-11-08,87,44.0,Southwest,Suburban,Unlimited,Two year,2,100.53,0,0,1,Credit card,0,0,1,0
+C119129,2024-02-10,23,18.0,Southeast,Suburban,Premium,One year,1,62.06,0,0,1,Credit card,1,0,0,0
+C144748,2023-04-16,33,24.0,Midwest,Suburban,Premium,Month-to-month,3,116.24,0,0,1,Credit card,0,2,0,0
+C100028,2025-12-01,1,68.0,Midwest,Rural,Unlimited,Month-to-month,1,69.4,0,0,0,Credit card,0,0,1,0
+C106762,2021-01-26,60,27.0,West,Urban,Premium,Two year,2,78.44,0,0,1,Debit card,1,10,1,1
+C136934,2024-09-07,16,51.0,West,Urban,Basic,Two year,2,47.92,1,0,1,Bank transfer,1,14,0,0
+C128846,2025-02-04,11,74.0,Northeast,Rural,Unlimited,Month-to-month,3,147.04,0,0,0,Mailed check,0,0,0,1
+C123275,2024-07-09,18,32.0,Northeast,Suburban,Basic,Month-to-month,5,89.9,1,0,0,Credit card,1,19,1,0
+C135078,2025-11-01,2,48.0,Midwest,Urban,Premium,Month-to-month,1,49.11,0,0,1,Bank transfer,1,0,0,0
+C116008,2024-11-06,14,54.0,Southeast,Urban,Basic,Month-to-month,1,26.64,0,0,1,Credit card,0,0,1,0
+C121542,2025-11-01,2,30.0,Northeast,Urban,Unlimited,Month-to-month,1,81.89,0,1,1,Debit card,1,0,0,1
+C111271,2025-02-04,11,32.0,Southeast,Suburban,Standard,Month-to-month,1,46.35,1,0,0,Debit card,0,0,0,0
+C104373,2025-06-04,7,58.0,Southeast,Urban,Standard,Month-to-month,4,112.56,1,0,1,Debit card,1,0,1,0
+C138089,2025-10-02,3,44.0,Midwest,Rural,Standard,One year,4,109.24,0,0,0,Mailed check,0,1,0,0
+C112911,2025-08-03,5,35.0,Northeast,Urban,Premium,Month-to-month,3,119.34,0,0,0,Mailed check,1,0,0,0
+C109938,2018-02-11,96,53.0,Southeast,Urban,Premium,One year,2,82.88,0,0,1,Bank transfer,1,7,1,0
+C143951,2025-06-04,7,38.0,Northeast,Suburban,Premium,Month-to-month,5,175.5,0,0,0,Bank transfer,1,0,0,0
+C124097,2025-01-05,12,37.0,West,Rural,Standard,Month-to-month,2,61.13,0,0,0,Credit card,1,0,1,0
+C109444,2023-02-15,35,74.0,Northeast,Suburban,Premium,One year,4,140.68,0,0,1,Credit card,1,0,0,1
+C104854,2025-09-02,4,41.0,Midwest,Urban,Basic,Month-to-month,4,63.99,0,0,1,Bank transfer,1,0,0,0
+C118302,2022-08-19,41,47.0,Southwest,Urban,Standard,Month-to-month,5,125.32,0,0,0,Credit card,0,17,1,0
+C125394,2022-11-17,38,18.0,Southwest,Urban,Unlimited,Month-to-month,1,71.11,0,0,1,Debit card,1,4,0,0
+C139710,2024-03-11,22,53.0,Southeast,Suburban,Premium,Month-to-month,1,63.61,1,0,1,Bank transfer,1,0,0,1
+C114102,2023-08-14,29,42.0,Southwest,Urban,Standard,Two year,1,40.98,0,0,1,Credit card,0,0,1,1
+C109229,2024-11-06,14,,West,Urban,Basic,Month-to-month,2,40.16,0,0,1,Debit card,1,21,0,0
+C133450,2024-07-09,18,54.0,Northeast,Suburban,Unlimited,One year,2,123.36,1,1,0,Mailed check,1,0,1,0
+C117485,2025-01-05,12,45.0,Southwest,Urban,Standard,Month-to-month,2,58.78,0,0,0,Mailed check,0,6,1,0
+C105636,2024-07-09,18,18.0,West,Suburban,Basic,Month-to-month,1,35.28,1,0,1,Credit card,1,23,0,0
+C124683,2022-06-20,43,40.0,West,Rural,Standard,One year,1,39.43,0,0,1,Debit card,1,0,1,1
+C100361,2023-03-17,34,42.0,Southwest,Urban,Premium,Month-to-month,2,89.37,0,1,0,Credit card,0,0,0,1
+C143113,2024-11-06,14,43.0,Northeast,Suburban,Premium,Month-to-month,3,110.41,0,0,1,Credit card,0,0,1,0
+C109734,2025-04-05,9,46.0,Northeast,Rural,Unlimited,Month-to-month,1,70.78,0,0,0,Mailed check,0,0,1,1
+C107568,2025-02-04,11,51.0,Southeast,Urban,Unlimited,Two year,5,225.18,1,0,1,Credit card,1,0,0,0
+C126311,2025-07-04,6,48.0,West,Urban,Standard,Month-to-month,1,38.43,0,0,0,Debit card,0,0,0,0
+C103378,2024-08-08,17,40.0,Southeast,Suburban,Standard,Month-to-month,1,40.08,0,0,0,Credit card,0,0,0,0
+C142923,2024-05-10,20,49.0,Northeast,Suburban,Standard,Month-to-month,1,45.14,0,0,0,Credit card,0,0,1,0
+C131349,2025-07-04,6,31.0,Midwest,Suburban,Standard,Month-to-month,1,50.36,1,0,1,Bank transfer,0,0,1,1
+C147909,2025-07-04,6,85.0,Northeast,Suburban,Standard,Month-to-month,5,126.09,0,0,1,Debit card,0,5,1,1
+C147566,2025-08-03,5,43.0,Southeast,Suburban,Basic,Month-to-month,1,23.03,0,0,0,Bank transfer,1,0,0,0
+C148833,2025-08-03,5,43.0,Northeast,Urban,Standard,Month-to-month,3,87.44,0,0,0,Credit card,1,0,0,0
+C121563,2025-05-05,8,44.0,Northeast,Rural,Unlimited,Month-to-month,1,68.87,0,0,1,Bank transfer,1,0,0,0
+C148589,2023-01-16,36,34.0,Southwest,Urban,Standard,One year,1,38.52,0,0,0,Mailed check,0,0,0,0
+C116922,2024-08-08,17,42.0,Northeast,Suburban,Standard,Two year,1,45.0,0,0,0,Credit card,1,7,0,0
+C110508,2023-01-16,36,50.0,Midwest,Urban,Premium,Month-to-month,3,133.67,1,1,1,Bank transfer,1,0,0,0
+C101299,2025-06-04,7,,Midwest,Urban,Unlimited,Month-to-month,3,146.86,0,0,0,Credit card,1,0,1,0
+C134176,2024-09-07,16,40.0,Midwest,Rural,Standard,Month-to-month,2,59.2,0,0,1,Credit card,1,12,0,0
+C143890,2022-03-22,46,51.0,Southwest,Suburban,Standard,Month-to-month,1,48.98,1,0,0,Credit card,1,0,0,0
+C106342,2018-06-11,92,21.0,Southeast,Urban,Standard,Two year,2,65.86,1,0,1,Debit card,1,23,0,1
+C112791,2025-05-05,8,71.0,Northeast,Rural,Standard,Month-to-month,2,59.57,0,0,1,Debit card,1,0,1,0
+C120667,2019-04-07,82,75.0,Southeast,Rural,Premium,Two year,1,51.74,0,0,1,Bank transfer,1,0,0,0
+C125019,2025-06-04,7,29.0,Midwest,Urban,Standard,One year,1,54.82,1,0,1,Bank transfer,1,0,0,0
+C146981,2023-12-12,25,48.0,Southeast,Urban,Basic,Month-to-month,1,25.32,0,0,0,Mailed check,1,16,0,0
+C144549,2023-09-13,28,49.0,Southwest,Urban,Unlimited,One year,2,106.83,0,0,1,Debit card,1,0,1,0
+C114693,2025-01-05,12,24.0,West,Urban,Standard,Month-to-month,2,69.57,1,0,1,Bank transfer,1,0,1,0
+C126693,2024-03-11,22,50.0,West,Urban,Standard,One year,2,62.94,0,0,0,Bank transfer,0,15,0,0
+C112305,2025-02-04,11,51.0,Northeast,Urban,Standard,Month-to-month,1,37.44,0,0,0,Mailed check,1,0,0,1
+C102051,2025-11-01,2,51.0,Northeast,Urban,Standard,Month-to-month,1,39.04,0,0,1,Bank transfer,1,6,0,0
+C145725,2025-08-03,5,18.0,West,Urban,Premium,Month-to-month,1,77.25,1,1,1,Credit card,1,14,0,0
+C147862,2022-02-20,47,49.0,Midwest,Urban,Standard,Month-to-month,5,127.88,0,0,1,Credit card,0,0,1,1
+C103435,2024-01-11,24,,Midwest,Rural,Basic,One year,1,24.5,0,0,0,Credit card,0,22,0,0
+C123004,2023-11-12,26,36.0,Midwest,Suburban,Unlimited,MONTH-TO-MONTH,2,107.59,0,0,1,Bank transfer,1,0,0,0
+C133947,2024-08-08,17,18.0,Midwest,Suburban,Standard,Month-to-month,1,50.75,1,0,0,Debit card,1,20,1,0
+C149019,2024-09-07,16,45.0,Southwest,Urban,Premium,One year,2,85.96,0,0,0,Mailed check,1,0,1,0
+C115975,2023-09-13,28,43.0,Northeast,Suburban,Unlimited,One year,1,69.25,0,0,1,Bank transfer,0,0,0,0
+C110037,2024-07-09,18,40.0,Midwest,Suburban,Basic,One year,3,47.67,0,0,1,Bank transfer,1,5,0,0
+C149117,2022-12-17,37,37.0,West,Urban,Basic,Month-to-month,2,38.99,0,0,1,Credit card,1,0,1,0
+C147607,2022-03-22,46,60.0,West,Suburban,Premium,Month-to-month,1,53.94,0,0,0,Bank transfer,1,0,0,1
+C130452,2021-07-25,54,40.0,Midwest,Suburban,Premium,One year,1,59.95,0,0,1,Bank transfer,1,0,0,0
+C137217,2022-12-17,37,,Southwest,Urban,Standard,Two year,1,36.22,0,0,1,Credit card,1,0,0,0
+C105238,2025-05-05,8,43.0,Southeast,Urban,Premium,Month-to-month,1,55.49,0,0,0,Credit card,0,18,1,0
+C149194,2021-12-22,49,44.0,Southwest,Urban,Premium,Month-to-month,1,57.15,0,0,0,Debit card,0,0,0,1
+C120315,2025-09-02,4,71.0,Southwest,Urban,Basic,Month-to-month,1,36.79,1,0,0,Credit card,0,0,0,0
+C131127,2025-04-05,9,33.0,Southeast,Suburban,Premium,Two year,5,164.58,0,0,1,,0,1,0,0
+C114685,2022-07-20,42,32.0,West,Urban,Premium,Two year,2,85.29,0,0,1,Debit card,1,22,1,1
+C120888,2024-07-09,18,52.0,Midwest,Urban,Basic,Month-to-month,1,33.97,1,0,0,Credit card,1,0,0,0
+C141447,2024-05-10,20,70.0,Northeast,Suburban,Premium,One year,3,118.56,0,0,1,Credit card,1,10,0,0
+C107215,2025-02-04,11,46.0,Northeast,Suburban,Standard,Month-to-month,1,41.7,0,0,0,Mailed check,0,12,0,0
+C102466,2020-01-02,73,18.0,Southeast,Rural,Premium,Two year,1,52.24,0,0,1,Debit card,0,23,0,0
+C126980,2025-03-06,10,44.0,West,Suburban,Premium,Month-to-month,2,84.59,0,0,0,Mailed check,1,0,1,0
+C145001,2023-04-16,33,32.0,Southwest,Suburban,Basic,One year,3,65.14,1,0,0,Credit card,0,0,0,0
+C113632,2018-02-11,96,47.0,Northeast,Urban,Standard,Two year,1,39.07,0,0,0,Credit card,1,4,0,1
+C119378,2023-04-16,33,56.0,Northeast,Suburban,Standard,One year,1,39.33,0,0,1,Bank transfer,0,5,0,0
+C117035,2019-04-07,82,61.0,West,Urban,Standard,One year,2,56.52,0,0,1,Bank transfer,0,0,0,0
+C100468,2025-05-05,8,43.0,West,Urban,Basic,Month-to-month,1,29.4,0,0,1,Bank transfer,0,0,1,0
+C142604,2022-10-18,39,67.0,Southeast,Urban,Premium,One year,4,150.02,0,0,1,Bank transfer,1,24,1,0
+C122141,2024-10-07,15,70.0,Midwest,Suburban,Basic,Two year,1,26.57,0,0,1,Bank transfer,1,0,1,1
+C114896,2022-06-20,43,36.0,Southeast,Rural,Standard,Month-to-month,4,112.47,1,0,1,Credit card,1,0,0,0
+C140539,2021-05-26,56,57.0,West,Urban,Premium,Two year,1,51.86,0,0,1,Credit card,1,0,0,0
+C104056,2022-09-18,40,70.0,Southwest,Rural,Standard,Month-to-month,2,63.71,0,0,1,Credit card,1,3,0,0
+C132869,2022-08-19,41,18.0,Northeast,Rural,Standard,One year,3,80.2,0,0,0,Mailed check,1,0,0,1
+C128016,2024-03-11,22,69.0,Midwest,Urban,Basic,One year,3,51.46,0,0,1,Credit card,1,0,1,1
+C126780,2025-12-01,1,54.0,Southwest,Urban,Premium,Month-to-month,2,85.26,0,0,1,Credit card,1,0,0,0
+C100611,2018-02-11,96,58.0,West,Suburban,Basic,One year,5,91.0,1,0,0,Debit card,0,0,1,1
+C149608,2024-08-08,17,46.0,West,Suburban,Standard,Month-to-month,2,57.8,0,0,0,Mailed check,1,0,0,0
+C135065,2025-03-06,10,50.0,West, Urban ,Basic,One year,3,60.15,1,0,0,Credit card,0,12,1,0
+C124765,2025-06-04,7,50.0,West,Urban,Unlimited,Month-to-month,5,234.41,1,0,0,Bank transfer,1,0,1,0
+C143775,2022-02-20,47,23.0,Midwest,Urban,Standard,Month-to-month,1,52.32,1,0,0,Mailed check,1,0,0,0
+C115631,2024-01-11,24,52.0,Northeast,Rural,Basic,Month-to-month,1,22.94,0,0,0,Mailed check,0,13,0,1
+C119508,2025-02-04,11,34.0,Midwest,Suburban,Standard,Month-to-month,4,110.88,0,1,1,Credit card,0,16,0,0
+C131332,2018-11-08,87,39.0,Southeast,Urban,Standard,Two year,2,65.06,1,0,1,Bank transfer,1,0,1,0
+C130497,2025-04-05,9,55.0,Southeast,Urban,Standard,One year,1,37.54,0,0,1,Bank transfer,0,0,1,0
+C139655,2024-06-09,19,45.0,Northeast,Urban,Standard,MONTH-TO-MONTH,2,76.53,1,0,0,Mailed check,0,0,1,0
+C135964,2025-02-04,11,49.0,Southwest,Urban,Basic,Month-to-month,3,57.26,0,0,0,Bank transfer,1,0,1,0
+C118858,2024-06-09,19,40.0,Northeast,Suburban,Premium,Month-to-month,1,53.88,0,0,1,Bank transfer,1,21,1,0
+C133677,2024-11-06,14,,Midwest,Suburban,Premium,Month-to-month,2,87.0,0,0,0,Mailed check,1,0,0,0
+C113351,2023-12-12,25,55.0,Southeast,Rural,Premium,Two year,2,81.02,0,0,1,Credit card,1,0,0,0
+C131180,2023-12-12,25,47.0,Midwest,Urban,Premium,One year,3,114.78,0,0,1,Credit card,1,1,1,0
+C127886,2025-12-01,1,52.0,Midwest,Suburban,Standard,Month-to-month,2,69.75,0,1,0,Bank transfer,0,0,0,0
+C117130,2023-06-15,31,38.0,Southeast,Urban,Standard,Two year,2,58.45,0,0,0,Debit card,0,19,1,0
+C100652,2020-05-31,68,23.0,Southwest,Urban,Standard,One year,1,39.84,0,0,0,Credit card,1,16,1,0
+C100058,2025-11-01,2,23.0,Midwest,Urban,Basic,Month-to-month,1,27.17,0,0,1,Credit card,0,0,0,0
+C129297,2024-08-08,17,38.0,Northeast,Rural,Standard,Month-to-month,1,39.54,0,0,0,Debit card,1,4,0,0
+C122560,2021-12-22,49,18.0,Midwest,Urban,Premium,One year,2,81.29,0,0,0,Credit card,0,0,0,0
+C126546,2022-04-21,45,48.0,Midwest,Rural,Basic,Month-to-month,1,34.14,1,0,1,Credit card,0,4,1,1
+C111129,2023-09-13,28,38.0,Southeast,Rural,Standard,One year,3,82.72,0,0,0,Bank transfer,0,13,0,0
+C120845,2021-06-25,55,29.0,Midwest,Urban,Standard,One year,1,39.97,0,0,0,Debit card,1,0,0,0
+C112822,2024-01-11,24,48.0,Southeast,Urban,Standard,Month-to-month,2,61.4,0,0,0,Mailed check,0,0,1,0
+C129725,2019-07-06,79,25.0,Northeast,Urban,Basic,Month-to-month,3,57.9,1,0,1,Bank transfer,1,0,0,0
+C136910,2020-07-30,66,,Midwest,Rural,Standard,One year,3,92.5,1,0,1,Debit card,0,0,0,1
+C124697,2019-08-05,78,62.0,Southwest,Suburban,Basic,Two year,2,34.7,0,0,0,Credit card,1,0,0,1
+C109370,2024-03-11,22,44.0,Southeast,Urban,Standard,Two year,1,38.57,0,0,1,Credit card,0,17,0,1
+C116469,2023-10-13,27,68.0,Midwest,Suburban,Premium,Month-to-month,4,144.92,0,0,0,Mailed check,1,0,0,0
+C134155,2022-12-17,37,51.0,West,Rural,Premium,Two year,1,54.85,0,0,1,Debit card,1,0,0,1
+C142856,2023-12-12,25,53.0,Midwest,Urban,Premium,Month-to-month,3,122.98,1,0,0,Debit card,0,5,0,0
+C144794,2023-09-13,28,24.0,Southwest,Urban,Unlimited,Month-to-month,3,148.62,0,0,1,Credit card,1,11,0,0
+C115148,2025-09-02,4,35.0,Southwest,Urban,Standard,Month-to-month,1,37.09,0,0,0,Mailed check,0,0,1,1
+C116145,2020-02-01,72,40.0,West,Suburban,Premium,Month-to-month,2,85.74,0,0,0,Mailed check,1,0,0,1
+C102684,2025-08-03,5,35.0,Southeast,Urban,Standard,Month-to-month,2,61.91,0,0,0,Bank transfer,0,14,0,0
+C123381,2024-05-10,20,67.0,Northeast,Urban,Unlimited,Two year,1,74.11,1,0,1,Bank transfer,1,0,0,0
+C137988,2023-07-15,30,36.0,Northeast,Rural,Unlimited,One year,3,145.82,0,0,1,Credit card,1,0,1,0
+C115993,2020-08-29,65,38.0,West,Rural,Standard,One year,1,49.11,1,0,0,Mailed check,1,0,1,1
+C125552,2018-02-11,96,28.0,Southwest,Urban,Standard,One year,3,84.17,0,0,1,Bank transfer,1,0,1,0
+C107184,2023-06-15,31,56.0,Southeast,Rural,Basic,Month-to-month,1,24.42,0,0,1,Bank transfer,0,0,0,0
+C125880,2018-09-09,89,23.0,Southwest,Suburban,Unlimited,One year,3,148.13,0,0,0,Credit card,1,0,1,0
+C149190,2025-06-04,7,45.0,Southwest,Urban,Unlimited,Month-to-month,2,105.49,0,0,0,Mailed check,1,6,0,1
+C127341,2019-08-05,78,24.0,Southeast,Urban,Unlimited,One year,1,78.27,0,1,1,Bank transfer,1,0,1,1
+C126335,2025-10-02,3,-1.0,Southwest,Urban,Premium,Month-to-month,4,150.63,1,0,1,Bank transfer,0,0,1,0
+C117869,2024-01-11,24,35.0,Northeast,Urban,Basic,One year,2,37.41,0,0,0,Credit card,1,20,0,0
+C101343,2020-11-27,62,26.0,Midwest,Urban,Premium,One year,2,83.05,0,0,1,Bank transfer,1,4,0,0
+C115304,2023-06-15,31,21.0,Midwest,Urban,Basic,Month-to-month,2,48.3,1,0,1,Credit card,1,0,1,0
+C148941,2025-03-06,10,24.0,Southeast,Urban,Basic,Month-to-month,1,35.81,1,0,0,Mailed check,0,18,1,0
+C124277,2025-07-04,6,57.0,Northeast,Suburban,Premium,One year,1,70.41,1,1,1,Credit card,1,0,0,1
+C123597,2025-11-01,2,39.0,Southwest,Suburban,Premium,Month-to-month,4,144.7,0,0,0,Mailed check,1,0,0,0
+C145940,2024-01-11,24,36.0,Midwest,Urban,Premium,Month-to-month,2,81.43,0,0,0,Debit card,0,4,0,0
+C141332,2022-11-17,38,19.0,Southeast,SUBURBAN,Unlimited,Month-to-month,2,107.39,0,0,1,Debit card,1,0,0,0
+C119871,2021-09-23,52,31.0,Southeast,Urban,Standard,One year,2,63.31,0,0,1,Debit card,1,0,1,0
+C133707,2025-01-05,12,43.0,Southeast,Suburban,Basic,Month-to-month,1,33.68,1,0,1,Credit card,1,0,0,0
+C127870,2022-01-21,48,47.0,Midwest,Urban,Basic,month-to-month,5,89.17,1,0,0,Mailed check,0,0,0,0
+C103494,2025-02-04,11,61.0,Southwest,Urban,Standard,Month-to-month,3,86.3,0,0,1,Debit card,1,0,0,0
+C145247,2025-02-04,11,32.0,West,Suburban,Standard,Month-to-month,2,60.66,0,0,1,Credit card,1,11,1,1
+C109425,2020-10-28,63,55.0,Southeast,Suburban,Standard,One year,5,128.66,0,0,1,Bank transfer,0,0,0,1
+C132529,2023-06-15,31,48.0,Southeast,Suburban,Basic,Month-to-month,3,64.21,1,0,1,Debit card,1,14,1,0
+C121077,2022-05-21,44,74.0,Northeast,Urban,Standard,Month-to-month,4,128.24,1,1,1,Credit card,1,12,0,0
+C136488,2018-02-11,96,63.0,Southeast,Rural,Unlimited,One year,2,108.74,0,0,0,Mailed check,1,0,1,0
+C117368,2022-04-21,45,65.0,Southwest,Urban,Standard,One year,5,135.54,1,0,0,Debit card,0,0,0,1
+C119716,2024-11-06,14,46.0,Northeast,Suburban,Premium,Two year,1,51.58,0,0,1,Bank transfer,1,16,0,1
+C113073,2025-12-01,1,49.0,West,Urban,Basic,Month-to-month,5,81.95,0,0,0,Credit card,0,0,0,0
+C135859,2022-10-18,39,,Northeast,Rural,Standard,Two year,1,50.06,1,0,1,Bank transfer,0,0,0,0
+C110793,2023-10-13,27,64.0,Midwest,Rural,Basic,Two year,3,68.84,1,1,1,Bank transfer,1,0,0,1
+C121525,2024-04-10,21,69.0,Southeast,Rural,Standard,One year,1,54.59,1,0,1,Bank transfer,1,0,0,0
+C116483,2025-08-03,5,45.0,Southeast,Rural,Standard,Month-to-month,3,100.89,1,1,0,Credit card,1,0,1,0
+C115779,2025-04-05,9,37.0,Southwest,Suburban,Unlimited,Month-to-month,1,88.36,1,1,1,Credit card,0,0,0,0
+C104820,2024-09-07,16,53.0,Southwest,Urban,Basic,One year,2,54.36,1,0,0,Mailed check,1,0,0,0
+C111012,2019-07-06,79,31.0,Northeast,Suburban,Basic,One year,1,41.5,1,1,1,Credit card,1,0,0,0
+C113916,2022-02-20,47,28.0,Southeast,Urban,Standard,Month-to-month,1,39.28,0,0,1,Bank transfer,1,0,0,0
+C132650,2021-12-22,49,18.0,Southwest,Rural,Standard,One year,2,62.49,0,0,1,Credit card,1,0,1,0
+C147919,2019-06-06,80,49.0,Southeast,Urban,Premium,Two year,2,80.63,0,0,1,Bank transfer,1,0,0,0
+C130224,2024-03-11,22,43.0,West,Urban,Standard,One year,1,48.27,1,0,1,Credit card,1,8,1,0
+C120820,2023-11-12,26,30.0,Midwest,Suburban,Premium,Month-to-month,2,83.62,0,0,0,Mailed check,0,0,0,0
+C123709,2025-10-02,3,66.0,Southeast,Suburban,Standard,One year,4,114.45,1,0,1,Debit card,1,10,0,0
+C104802,2024-03-11,22,26.0,West,Rural,Unlimited,Month-to-month,1,85.07,1,0,1,Credit card,1,0,1,0
+C108482,2024-03-11,22,56.0,Northeast,Suburban,Premium,Two year,1,57.88,0,0,0,Mailed check,1,17,1,0
+C125971,2024-10-07,15,34.0,Southeast,Urban,Premium,Month-to-month,1,55.02,0,0,1,Credit card,0,0,1,1
+C102187,2025-04-05,9,28.0,Northeast,Suburban,Unlimited,One year,2,106.44,0,0,1,Debit card,0,6,1,0
+C137827,2025-10-02,3,26.0,West,Urban,Unlimited,Month-to-month,5,226.33,0,0,0,Mailed check,1,4,0,0
+C104101,2025-04-05,9,50.0,Northeast,Urban,Premium,One year,3,131.33,1,1,1,Bank transfer,0,8,0,1
+C136407,2025-06-04,7,37.0,West,Suburban,Premium,Month-to-month,5,175.08,0,0,1,Credit card,0,0,1,0
+C142695,2024-11-06,14,35.0,Southwest,Rural,Premium,Month-to-month,1,54.29,0,0,0,Mailed check,1,0,0,1
+C111525,2021-07-25,54,25.0,Midwest,Urban,Basic,One year,2,37.27,0,0,1,Bank transfer,0,0,0,1
+C109606,2024-07-09,18,18.0,Northeast,Urban,Premium,Month-to-month,1,53.7,0,0,1,Debit card,1,0,0,0
+C147810,2023-07-15,30,32.0,Midwest,Suburban,Unlimited,Two year,4,188.9,1,0,1,Bank transfer,0,11,0,0
+C142297,2022-03-22,46,47.0,Southeast,Suburban,Basic,Two year,1,23.83,0,0,0,Bank transfer,1,0,0,0
+C117684,2025-04-05,9,29.0,West,Rural,Basic,One year,3,48.9,0,0,0,Mailed check,1,0,1,0
+C141252,2025-11-01,2,26.0,West,Rural,Premium,Month-to-month,1,56.14,0,0,0,Debit card,1,14,0,0
+C146257,2024-08-08,17,62.0,Midwest,Urban,Standard,One year,5,130.63,0,0,0,Bank transfer,1,14,0,1
+C100164,2025-09-02,4,42.0,Northeast,Urban,Premium,One year,1,63.32,0,1,0,Credit card,0,0,1,0
+C111035,2023-12-12,25,48.0,Northeast,Suburban,Basic,Two year,4,63.61,0,0,0,Bank transfer,0,0,0,0
+C103530,2025-02-04,11,51.0,Midwest,Suburban,Unlimited,Month-to-month,2,110.05,0,0,0,Credit card,0,0,0,0
+C139818,2018-02-11,96,46.0,Southeast,Suburban,Standard,One year,3,83.26,0,0,1,Debit card,1,10,0,1
+C147087,2025-12-01,1,66.0,Northeast,Suburban,Premium,Month-to-month,3,114.99,0,0,0,Credit card,1,0,0,0
+C137565,2025-03-06,10,65.0,Southeast, Urban ,Standard,One year,1,38.29,0,0,1,Bank transfer,1,2,0,0
+C126897,2024-02-10,23,64.0,Southwest,Suburban,Standard,Month-to-month,1,37.45,0,0,1,Bank transfer,0,1,1,0
+C147191,2021-03-27,58,26.0,West,Suburban,Premium,Month-to-month,1,63.79,1,0,1,Bank transfer,1,16,0,0
+C139451,2022-06-20,43,36.0,Midwest,Suburban,Basic,Month-to-month,1,27.21,0,0,0,Mailed check,1,0,0,0
+C129029,2023-09-13,28,43.0,Midwest,Urban,Unlimited,Month-to-month,2,106.8,0,0,0,Credit card,1,0,1,0
+C143493,2021-09-23,52,33.0,Northeast,Urban,Premium,Two year,1,55.12,0,0,1,Debit card,0,0,0,1
+C117828,2025-12-01,1,44.0,Northeast,Urban,Basic,Month-to-month,2,36.61,0,0,1,Credit card,1,0,0,1
+C113226,2024-11-06,14,39.0,Southeast,Rural,Unlimited,One year,4,183.52,0,0,1,Credit card,1,16,1,0
+C109210,2024-01-11,24,38.0,Midwest,Rural,Standard,Two year,4,104.32,0,0,1,Credit card,1,23,0,0
+C133929,2023-06-15,31,18.0,Southeast,Suburban,Basic,Month-to-month,1,26.88,0,0,1,Credit card,1,0,0,0
+C116021,2023-03-17,34,39.0,West,Urban,Standard,One year,1,58.12,1,1,1,Credit card,1,3,1,0
+C113618,2018-02-11,96,18.0,West,Suburban,Basic,Month-to-month,4,64.48,0,0,1,Bank transfer,0,0,0,0
+C143349,2024-07-09,18,31.0,Midwest,Suburban,Basic,Month-to-month,3,63.77,1,0,0,Bank transfer,0,16,0,0
+C119461,2024-03-11,22,66.0,Southeast,Suburban,Standard,Two year,4,99.99,0,0,1,Debit card,0,5,0,0
+C114919,2024-12-06,13,60.0,Southeast,Urban,Standard,Month-to-month,2,62.15,0,0,1,Bank transfer,0,0,0,1
+C137513,2025-01-05,12,51.0,West,Suburban,Unlimited,Month-to-month,1,80.34,1,0,0,Mailed check,0,0,1,0
+C147870,2025-07-04,6,41.0,Northeast,Urban,Standard,Month-to-month,2,72.13,1,0,0,Credit card,0,23,1,0
+C108898,2025-07-04,6,36.0,Northeast,Urban,Standard,Month-to-month,2,63.08,0,0,1,Credit card,0,0,1,0
+C126129,2025-05-05,8,60.0,Southeast,Suburban,Standard,Month-to-month,3,86.72,0,0,1,Credit card,1,0,1,0
+C138984,2025-11-01,2,65.0,Midwest,Urban,Unlimited,Month-to-month,4,181.96,0,0,0,Credit card,1,19,0,0
+C130076,2025-11-01,2,70.0,Northeast,Urban,Basic,Month-to-month,1,25.36,0,0,0,Bank transfer,0,0,0,0
+C123324,2025-03-06,10,68.0,Northeast,Urban,Unlimited,Month-to-month,2,106.72,0,0,0,Mailed check,0,0,0,0
+C105248,2023-11-12,26,57.0,Southeast,Urban,Standard,Month-to-month,3,84.13,0,0,0,Bank transfer,1,0,1,1
+C110919,2024-05-10,20,65.0,Northeast,Suburban,Basic,Month-to-month,1,30.03,1,0,1,Debit card,1,2,0,0
+C133878,2023-11-12,26,35.0,Midwest,Urban,Standard,Month-to-month,4,113.42,1,0,1,Bank transfer,1,0,0,0
+C122731,2023-08-14,29,34.0,Midwest,Urban,Basic,Two year,2,36.28,0,0,1,Credit card,0,8,1,0
+C100078,2022-11-17,38,39.0,Southwest,Suburban,Basic,One year,3,57.23,0,1,0,Debit card,1,15,0,1
+C144952,2025-06-04,7,48.0,West,Urban,Premium,Month-to-month,2,101.82,1,0,0,Credit card,1,3,0,0
+C105033,2021-04-26,57,67.0,West,Rural,Premium,Month-to-month,1,55.83,0,0,1,Bank transfer,1,3,0,1
+C141293,2024-09-07,16,52.0,West,Suburban,Premium,One year,3,116.02,0,0,0,Bank transfer,1,0,1,1
+C102289,2025-06-04,7,46.0,Southeast,Urban,Unlimited,Month-to-month,2,106.29,0,0,0,Mailed check,0,0,1,1
+C118236,2020-06-30,67,36.0,Southeast,Urban,Standard,One year,5,146.72,1,0,1,Debit card,1,6,1,1
+C127495,2024-06-09,19,47.0,Southwest,Suburban,Standard,Month-to-month,4,107.81,0,0,1,Credit card,0,0,1,1
+C107604,2023-04-16,33,,Southwest,Urban,Unlimited,Two year,1,68.5,0,0,1,Credit card,1,5,1,0
+C109174,2025-06-04,7,35.0,Southwest,Rural,Standard,Two year,1,38.57,0,0,1,Credit card,1,0,1,1
+C102753,2025-02-04,11,60.0,Southeast,Urban,Unlimited,Month-to-month,1,79.15,1,0,1,Credit card,1,0,0,0
+C111947,2023-06-15,31,32.0,Northeast,Suburban,Premium,Month-to-month,3,123.75,1,0,1,Debit card,0,0,0,0
+C123220,2023-12-12,25,37.0,Southeast,Suburban,Unlimited,Month-to-month,2,107.76,0,0,1,Credit card,1,0,0,0
+C142353,2020-05-01,69,41.0,West,Rural,Standard,One year,3,92.85,0,1,1,Credit card,1,0,0,1
+C138468,2024-10-07,15,44.0,Southeast,Suburban,Unlimited,One year,1,81.57,1,0,0,Credit card,1,1,0,0
+C123982,2025-03-06,10,56.0,Southwest,Urban,Standard,Month-to-month,4,103.92,0,0,1,Bank transfer,0,0,0,0
+C146828,2019-09-04,77,46.0,Midwest,Urban,Basic,Two year,1,30.87,0,1,1,Credit card,1,0,0,1
+C105631,2025-05-05,8,44.0,Southwest,Urban,Standard,Month-to-month,4,102.66,0,0,0,Credit card,1,1,0,0
+C107933,2025-05-05,8,20.0,Northeast,Rural,Standard,Month-to-month,1,43.85,1,0,0,Mailed check,1,23,0,1
+C135745,2023-09-13,28,50.0,Midwest,Urban,Premium,Month-to-month,1,68.87,1,1,0,Mailed check,1,0,0,0
+C149717,2023-09-13,28,36.0,Midwest,Rural,Unlimited,One year,4,187.35,0,0,1,Bank transfer,1,0,0,0
+C144666,2020-05-31,68,32.0,West,Urban,Premium,One year,2,86.22,0,0,1,Bank transfer,1,0,1,0
+C116045,2023-01-16,36,,Northeast,Suburban,Standard,One year,5,133.94,1,0,0,Bank transfer,0,0,0,0
+C138612,2024-03-11,22,57.0,Northeast,Urban,Premium,One year,2,95.45,0,1,1,Credit card,0,0,0,0
+C102421,2025-08-03,5,41.0,West,Rural,Standard,Month-to-month,3,88.43,0,0,0,Debit card,1,0,0,1
+C127245,2022-01-21,48,63.0,West,Suburban,Standard,One year,4,114.57,1,0,1,Credit card,1,0,1,1
+C133125,2024-02-10,23,34.0,West,Suburban,Basic,Month-to-month,3,53.25,0,0,1,Debit card,1,6,1,0
+C135470,2023-06-15,31,45.0,West,Suburban,Standard,One year,2,62.53,0,0,1,Credit card,0,3,1,0
+C119710,2024-12-06,13,51.0,Southeast,Rural,Unlimited,Month-to-month,3,148.89,0,0,1,Credit card,0,14,1,0
+C135271,2023-11-12,26,29.0,Northeast,Urban,Premium,Two year,4,135.41,0,0,1,Debit card,0,9,0,1
+C120035,2021-09-23,52,42.0,Southeast,Suburban,Unlimited,Month-to-month,1,71.91,0,0,0,Bank transfer,1,5,1,0
+C109932,2025-08-03,5,61.0,Southeast,Rural,Basic,Month-to-month,2,40.52,0,0,0,Bank transfer,1,0,1,0
+C124045,2024-03-11,22,32.0,Midwest,Suburban,Basic,Month-to-month,2,46.68,1,0,0,Mailed check,1,1,0,1
+C105255,2023-09-13,28,47.0,Midwest,Urban,Standard,Two year,4,105.03,0,0,1,Bank transfer,0,0,0,0
+C131413,2025-03-06,10,34.0,Southeast,Urban,Standard,Month-to-month,1,50.8,1,0,1,Bank transfer,0,1,0,0
+C135261,2018-08-10,90,60.0,Midwest,Suburban,Premium,Two year,1,54.26,0,0,1,Bank transfer,1,0,0,0
+C124025,2025-01-05,12,29.0,West,Urban,Basic,Month-to-month,1,27.53,1,0,0,Credit card,0,14,1,0
+C110180,2018-02-11,96,62.0,Southeast,Rural,Standard,Two year,5,117.72,0,0,1,Debit card,0,0,1,0
+C131889,2022-03-22,46,26.0,Northeast,Suburban,Standard,Two year,1,46.59,1,0,1,Credit card,0,0,0,0
+C118021,2021-05-26,56,65.0,Midwest,Suburban,Standard,Two year,2,67.26,1,0,1,Credit card,0,18,0,1
+C120256,2025-05-05,8,44.0,Southeast,Suburban,Standard,One year,3,83.39,0,0,1,Credit card,1,0,0,0
+C135546,2025-09-02,4,53.0,West,Urban,Premium,One year,2,86.05,0,0,1,Credit card,0,0,0,1
+C112207,2025-12-01,1,50.0,Southeast,Suburban,Basic,Month-to-month,1,35.96,1,0,1,Credit card,0,17,1,0
+C104781,2020-04-01,70,,Midwest,Urban,Basic,Two year,1,21.82,0,0,1,Bank transfer,1,0,1,0
+C138206,2024-09-07,16,27.0,Southeast,Suburban,Unlimited,Month-to-month,1,68.29,0,0,0,Credit card,0,2,1,0
+C103063,2020-03-02,71,35.0,West,Urban,Basic,Two year,2,35.78,0,0,1,Credit card,1,0,0,1
+C142818,2024-04-10,21,48.0,Southeast,Suburban,Standard,One year,2,63.9,0,0,1,Credit card,0,0,0,0
+C144769,2022-02-20,47,33.0,Northeast,Rural,Basic,One year,5,85.56,0,1,1,Bank transfer,1,9,0,1
+C112268,2023-01-16,36,71.0,Southeast,Rural,Basic,Month-to-month,2,41.21,0,0,0,Bank transfer,0,0,0,0
+C146126,2024-01-11,24,34.0,Midwest,Rural,Standard,One year,4,103.17,0,0,1,Credit card,1,6,1,0
+C129809,2025-02-04,11,62.0,Southeast,Urban,Premium,One year,4,156.08,1,0,1,Credit card,1,0,0,0
+C118653,2024-12-06,13,50.0,West,Suburban,Basic,Month-to-month,1,35.93,1,0,1,Credit card,1,0,0,0
+C100157,2025-02-04,11,64.0,Midwest,Rural,Unlimited,One year,4,183.98,0,0,0,Bank transfer,0,0,0,1
+C148794,2019-10-04,76,28.0,Southwest,Rural,Standard,Two year,1,39.12,0,0,0,Mailed check,1,19,1,0
+C138485,2025-07-04,6,27.0,Southeast,Urban,Standard,Month-to-month,3,79.96,0,0,1,Credit card,0,0,0,0
+C139091,2024-01-11,24,34.0,Northeast,Suburban,Basic,One year,3,53.6,0,0,1,Credit card,1,0,0,0
+C102335,2020-10-28,63,29.0,Northeast,Suburban,Premium,One year,1,69.08,1,0,1,Bank transfer,0,0,0,0
+C124486,2023-09-13,28,66.0,Northeast,Suburban,Basic,Two year,2,33.24,0,0,0,Credit card,0,0,1,0
+C108207,2025-03-06,10,29.0,West,Rural,Premium,Month-to-month,4,147.15,0,0,0,Mailed check,0,0,1,0
+C133459,2024-05-10,20,20.0,Southwest,Urban,Premium,Two year,2,81.51,0,0,1,Bank transfer,1,5,0,0
+C111497,2018-02-11,96,40.0,Southeast,Suburban,Standard,Two year,2,55.81,0,0,1,Bank transfer,0,13,1,1
+C127453,2025-07-04,6,34.0,Midwest,Suburban,Standard,Month-to-month,2,75.07,1,0,0,Bank transfer,0,0,0,0
+C138115,2022-09-18,40,50.0,Southwest,Rural,Premium,Month-to-month,3,,0,0,0,Bank transfer,0,18,0,0
+C120751,2019-04-07,82,46.0,Southeast,Urban,Premium,Two year,2,80.66,0,0,0,Mailed check,1,14,0,0
+C124895,2024-08-08,17,43.0,Southwest,Suburban,Standard,One year,2,62.6,0,0,1,Bank transfer,1,0,0,0
+C126174,2024-07-09,18,49.0,Midwest,Urban,Standard,One year,4,105.35,0,0,0,Credit card,1,0,1,0
+C119297,2022-12-17,37,32.0,Midwest,Suburban,Standard,Month-to-month,4,113.38,1,0,1,Debit card,0,0,0,1
+C107849,2021-09-23,52,47.0,Southeast,Suburban,Unlimited,One year,1,77.05,1,0,1,Bank transfer,0,0,1,1
+C127261,2025-08-03,5,40.0,Midwest,Urban,Standard,Month-to-month,2,66.1,0,0,0,Mailed check,0,23,0,0
+C104964,2025-07-04,6,53.0,Northeast,Suburban,Standard,Month-to-month,1,39.33,0,0,0,Mailed check,1,22,0,1
+C106877,2025-12-01,1,62.0,Southeast,Rural,Premium,Month-to-month,4,141.09,0,0,1,Bank transfer,1,9,1,0
+C111023,2024-06-09,19,32.0,Southeast,Urban,Standard,One year,2,63.87,0,0,1,Credit card,0,8,1,0
+C130754,2025-02-04,11,51.0,West,Urban,Unlimited,Month-to-month,4,186.76,0,0,1,Credit card,0,3,0,0
+C136848,2022-03-22,46,36.0,Southwest,Suburban,Standard,Two year,5,131.56,0,1,1,Credit card,0,0,1,1
+C125469,2024-12-06,13,20.0,Northeast,Rural,Unlimited,One year,1,78.67,1,0,0,Bank transfer,0,0,0,0
+C107198,2023-02-15,35,65.0,Southeast,Suburban,Basic,One year,2,39.9,0,0,0,Credit card,1,0,0,0
+C101946,2024-05-10,20,75.0,West,Urban,Standard,Month-to-month,2,62.23,0,0,0,,1,0,1,0
+C136723,2019-03-08,83,42.0,Southwest,Suburban,Basic,Two year,3,51.02,0,0,1,Debit card,0,0,1,0
+C104456,2024-09-07,16,59.0,Northeast,Suburban,Premium,Month-to-month,2,86.65,0,0,1,Credit card,1,0,0,0
+C143292,2024-03-11,22,59.0,Midwest,Urban,Standard,Month-to-month,1,51.71,1,0,1,Credit card,0,1,0,0
+C122950,2018-02-11,96,50.0,Southeast,Suburban,Premium,Two year,3,107.43,0,0,1,Credit card,1,0,0,1
+C113079,2018-02-11,96,57.0,Midwest,Suburban,Standard,Two year,5,124.28,0,0,1,Credit card,0,5,0,0
+C108987,2022-04-21,45,38.0,West,Suburban,Basic,Two year,1,22.1,0,0,0,Mailed check,1,0,1,0
+C113320,2024-04-10,21,54.0,Northeast,Rural,Unlimited,Month-to-month,4,182.82,0,0,0,Mailed check,0,0,1,1
+C111653,2020-02-01,72,24.0,Northeast,Urban,Unlimited,One year,2,109.71,0,0,0,Credit card,0,2,0,0
+C105836,2022-10-18,39,43.0,Southwest,Rural,Basic,Two year,2,40.97,1,0,1,Credit card,0,0,0,0
+C118434,2023-05-16,32,24.0,Southwest,Urban,Basic,Two year,5,72.73,0,0,1,Credit card,1,0,1,0
+C132811,2025-07-04,6,41.0,Midwest,Suburban,Basic,Month-to-month,2,50.75,1,0,0,Bank transfer,0,0,0,0
+C145858,2023-09-13,28,77.0,West,Suburban,Premium,Month-to-month,1,64.49,1,0,0,Credit card,0,0,1,0
+C126046,2025-03-06,10,38.0,Southeast,Suburban,Premium,Month-to-month,4,145.71,0,0,1,Credit card,0,0,0,0
+C106241,2024-03-11,22,50.0,Northeast,Urban,Premium,Month-to-month,3,112.47,0,0,0,Mailed check,0,0,0,0
+C149715,2024-03-11,22,35.0,Southeast,Rural,Basic,Month-to-month,2,35.19,0,0,0,Debit card,0,0,1,0
+C148945,2023-12-12,25,49.0,West,Suburban,Standard,Month-to-month,3,92.18,1,0,0,Credit card,0,0,1,0
+C107124,2025-05-05,8,82.0,Southwest,Urban,Unlimited,Month-to-month,1,70.59,0,0,1,Credit card,1,0,1,0
+C132324,2024-09-07,16,52.0,Southwest,Urban,Standard,Month-to-month,3,82.51,0,0,1,Bank transfer,0,0,0,0
+C140152,2020-11-27,62,60.0,West,Suburban,Basic,Month-to-month,2,39.63,0,0,0,Mailed check,1,24,0,0
+C117601,2025-02-04,11,38.0,Northeast,Urban,Standard,Month-to-month,2,69.74,1,0,1,Credit card,0,14,0,0
+C129795,2019-06-06,80,54.0,Northeast,Urban,Premium,Two year,3,110.33,0,0,1,Credit card,0,13,0,0
+C131365,2022-10-18,39,37.0,Midwest,Urban,Premium,Two year,2,79.74,0,0,1,Credit card,1,23,0,0
+C117450,2024-03-11,22,47.0,West,Rural,Premium,Month-to-month,1,63.91,1,0,0,Credit card,0,0,1,0
+C121097,2020-06-30,67,57.0,Northeast,Suburban,Standard,Month-to-month,2,58.39,0,0,0,Mailed check,0,0,1,1
+C137685,2023-09-13,28,51.0,West,Suburban,Premium,Month-to-month,1,54.34,0,0,1,Credit card,0,0,0,0
+C101294,2025-06-04,7,57.0,Southeast,Suburban,Standard,Month-to-month,2,61.97,0,0,0,Credit card,1,0,1,1
+C146752,2024-11-06,14,33.0,Southeast,Urban,Standard,Month-to-month,3,83.06,0,0,1,Debit card,1,0,1,0
+C105251,2023-12-12,25,18.0,Northeast,Suburban,Standard,Month-to-month,1,39.89,0,0,0,Mailed check,1,9,0,1
+C144310,2023-09-13,28,28.0,Southeast,Urban,Basic,One year,1,20.24,0,0,1,Debit card,1,9,0,0
+C121790,2025-01-05,12,37.0,Northeast,Rural,Basic,Month-to-month,2,35.74,0,0,0,Debit card,1,5,1,0
+C138210,2025-04-05,9,,West,Urban,Basic,Month-to-month,4,78.73,1,0,1,Credit card,1,0,0,0
+C102596,2025-12-01,1,63.0,Northeast,Urban,Premium,Month-to-month,2,87.25,0,0,1,Debit card,1,0,0,0
+C125160,2025-04-05,9,18.0,Southeast,Urban,Basic,Two year,5,73.67,0,0,0,Mailed check,1,0,1,0
+C124069,2022-03-22,46,41.0,Southeast,Urban,Premium,One year,3,134.22,1,1,1,Credit card,1,22,1,0
+C100103,2021-03-27,58,21.0,Southwest,Rural,Premium,Two year,3,107.03,0,0,1,Bank transfer,1,9,0,0
+C108582,2024-06-09,19,30.0,Midwest,Suburban,Standard,Month-to-month,2,60.78,0,0,1,Debit card,1,0,1,0
+C148907,2024-11-06,14,33.0,West,Rural,Premium,Month-to-month,1,65.28,0,1,1,Credit card,0,13,0,0
+C115215,2021-06-25,55,48.0,Southeast,Urban,Premium,month-to-month,3,113.69,0,0,0,Bank transfer,1,0,0,0
+C135601,2024-06-09,19,35.0,Midwest,Suburban,Basic,Month-to-month,2,34.94,0,0,0,Credit card,0,0,1,0
+C120911,2020-10-28,63,36.0,Southeast,Urban,Standard,One year,3,87.61,0,0,1,Credit card,0,7,0,1
+C117595,2024-07-09,18,54.0,Northeast,Rural,Unlimited,Month-to-month,1,68.35,0,0,1,Debit card,1,0,0,1
+C138292,2023-04-16,33,53.0,Southeast,Suburban,Basic,Month-to-month,1,39.2,1,0,0,Bank transfer,1,7,0,1
+C122181,2024-11-06,14,45.0,Northeast,Suburban,Standard,One year,1,42.84,1,0,0,Debit card,0,0,0,0
+C133181,2024-02-10,23,61.0,Midwest,Urban,Unlimited,Month-to-month,5,227.08,0,0,0,Credit card,1,20,0,0
+C100275,2025-07-04,6,39.0,Midwest,Suburban,Standard,Month-to-month,1,49.15,1,0,0,Credit card,0,0,0,0
+C141268,2025-10-02,3,73.0,West,Rural,Basic,Month-to-month,1,20.56,0,0,0,Credit card,1,2,0,0
+C129782,2022-02-20,47,42.0,Southwest,Suburban,Premium,Two year,1,58.93,1,0,1,Credit card,0,0,1,0
+C127842,2025-08-03,5,59.0,Northeast,Suburban,Standard,Month-to-month,2,60.32,0,0,1,Bank transfer,1,21,0,0
+C124561,2025-11-01,2,51.0,Southeast,Rural,Unlimited,Month-to-month,2,111.68,0,0,0,Credit card,0,8,1,0
+C142758,2019-10-04,76,66.0,Northeast,Suburban,Standard,Two year,1,52.81,1,0,1,Debit card,1,0,0,1
+C148403,2024-03-11,22,31.0,Northeast,Urban,Standard,Month-to-month,2,62.31,0,0,0,Bank transfer,1,10,1,0
+C140951,2018-02-11,96,42.0,Northeast,Suburban,Standard,Two year,1,37.9,0,0,0,Debit card,0,15,0,0
+C129650,2025-07-04,6,63.0,Southeast,Suburban,Basic,Month-to-month,1,25.99,0,0,0,Debit card,1,16,0,0
+C132603,2025-03-06,10,51.0,Southeast,Urban,Basic,Month-to-month,3,59.73,1,0,0,Mailed check,1,0,1,1
+C131059,2024-11-06,14,30.0,Northeast,Urban,Unlimited,Two year,5,211.03,0,0,1,Credit card,1,0,1,0
+C128672,2025-08-03,5,28.0,Northeast,Urban,Premium,Month-to-month,1,55.22,0,0,0,Debit card,0,0,0,0
+C135822,2022-11-17,38,46.0,West,Urban,Premium,One year,1,66.83,1,0,1,Credit card,0,0,1,0
+C106935,2025-09-02,4,67.0,Northeast,Rural,Unlimited,One year,2,110.65,0,0,0,Debit card,0,0,1,0
+C120746,2025-01-05,12,42.0,West,Urban,Premium,Month-to-month,1,53.05,0,0,0,Mailed check,0,0,1,1
+C132989,2025-03-06,10,60.0,Southeast,Urban,Premium,Month-to-month,2,99.47,1,1,0,Credit card,0,0,1,0
+C103127,2023-12-12,25,30.0,West, Rural ,Standard,Month-to-month,2,65.43,0,0,0,Bank transfer,1,8,0,0
+C126284,2024-10-07,15,18.0,Southeast,Rural,Premium,Month-to-month,1,52.81,0,0,0,Credit card,1,0,0,0
+C131352,2025-04-05,9,39.0,West,Suburban,Unlimited,Month-to-month,3,162.56,1,0,1,Credit card,0,0,0,1
+C117004,2021-03-27,58,27.0,West,Urban,Basic,Month-to-month,1,34.0,0,1,0,Bank transfer,1,0,0,0
+C133756,2020-12-27,61,48.0,Southeast,Rural,Standard,One year,3,83.06,0,0,0,Mailed check,1,20,0,0
+C106133,2025-08-03,5,39.0,Southwest,Suburban,Basic,Month-to-month,1,33.65,1,0,0,Credit card,1,0,0,0
+C101320,2023-08-14,29,70.0,West,Suburban,Premium,Month-to-month,4,143.21,0,0,0,Bank transfer,0,13,0,0
+C138855,2021-04-26,57,69.0,Midwest,Rural,Standard,One year,1,39.69,0,0,1,Credit card,1,0,0,0
+C148252,2025-06-04,7,50.0,Southeast,Urban,Standard,Month-to-month,4,113.21,1,0,0,Debit card,1,0,0,0
+C146984,2024-08-08,17,45.0,Northeast,Rural,Premium,Month-to-month,1,64.61,1,0,0,Mailed check,0,0,0,0
+C143561,2024-03-11,22,33.0,Northeast,Urban,Standard,Month-to-month,1,52.43,1,0,1,Bank transfer,0,0,1,1
+C106009,2021-09-23,52,57.0,Southeast,Rural,Premium,Two year,1,52.5,0,0,1,Debit card,1,13,0,0
+C114702,2024-02-10,23,34.0,Northeast,Suburban,Standard,One year,2,74.14,1,0,1,Debit card,1,11,0,0
+C146924,2023-11-12,26,38.0,Midwest,Suburban,Basic,One year,5,81.41,0,0,0,Debit card,0,0,1,0
+C119683,2023-06-15,31,34.0,Southwest,Suburban,Unlimited,Month-to-month,4,201.73,1,1,0,Mailed check,1,0,0,0
+C114224,2024-07-09,18,27.0,West,Rural,Premium,Month-to-month,1,57.16,0,0,0,Bank transfer,0,0,1,1
+C100789,2022-06-20,43,34.0,Southeast,Urban,Basic,One year,2,36.22,0,0,1,Credit card,1,12,0,0
+C140474,2024-11-06,14,38.0,Southwest,Suburban,Unlimited,Month-to-month,3,138.75,0,0,0,Bank transfer,1,17,1,0
+C144238,2024-02-10,23,33.0,Midwest,Suburban,Unlimited,Month-to-month,1,87.25,1,1,1,Credit card,1,0,1,1
+C119672,2018-02-11,96,55.0,Midwest,Suburban,Premium,Two year,1,57.25,0,0,1,Bank transfer,0,0,0,0
+C132707,2024-07-09,18,49.0,Southwest,Urban,Premium,Month-to-month,1,52.59,0,0,1,Bank transfer,1,0,0,1
+C128789,2025-07-04,6,39.0,West,Urban,Unlimited,Month-to-month,2,117.88,1,0,1,Credit card,0,0,0,1
+C141875,2023-04-16,33,32.0,West,Suburban,Basic,Month-to-month,2,35.82,0,0,1,Bank transfer,1,0,1,0
+C134207,2024-07-09,18,41.0,Southeast,Suburban,Standard,Month-to-month,2,64.82,0,0,1,Credit card,1,2,1,0
+C122197,2022-12-17,37,38.0,Southeast,Urban,Standard,Month-to-month,2,61.9,0,0,1,Credit card,0,6,1,0
+C135159,2018-02-11,96,64.0,Southeast,Suburban,Standard,Two year,2,56.59,0,0,1,Credit card,1,0,1,0
+C132849,2025-07-04,6,37.0,West,Rural,Basic,Month-to-month,2,40.51,0,0,0,Mailed check,0,20,1,0
+C136445,2023-10-13,27,52.0,Southeast,Rural,Premium,Month-to-month,2,87.58,0,0,1,Credit card,1,0,0,0
+C118940,2025-02-04,11,18.0,West,Urban,Standard,Month-to-month,2,62.59,0,0,0,Mailed check,1,2,1,0
+C138022,2021-10-23,51,32.0,Midwest,Urban,Standard,Month-to-month,5,129.73,0,0,1,Bank transfer,0,0,0,1
+C116082,2024-06-09,19,47.0,Southeast,Urban,Basic,One year,1,32.72,1,0,1,Debit card,1,2,0,0
+C128461,2024-07-09,18,71.0,Southeast,Rural,Standard,Month-to-month,2,59.32,0,0,0,Bank transfer,1,0,1,0
+C104638,2023-01-16,36,31.0,West,Rural,Standard,Month-to-month,2,70.16,1,0,0,Credit card,0,3,0,0
+C110305,2024-06-09,19,27.0,Southwest,Suburban,Standard,One year,1,59.24,1,1,0,Debit card,1,17,0,0
+C103737,2024-02-10,23,38.0,Midwest,Urban,Basic,One year,2,39.07,0,0,0,Credit card,0,0,0,0
+C138499,2022-10-18,39,47.0,West,Suburban,Basic,Two year,2,56.56,1,1,1,Credit card,0,24,0,1
+C136881,2022-10-18,39,34.0,Midwest,Urban,Premium,Two year,1,53.81,0,0,1,Credit card,1,0,0,1
+C149523,2024-06-09,19,26.0,West,Rural,Standard,Two year,1,34.84,0,0,0,Mailed check,1,0,0,0
+C111067,2025-01-05,12,39.0,Southeast,Suburban,Basic,Month-to-month,2,40.8,0,0,0,Debit card,1,0,1,0
+C141769,2025-07-04,6,40.0,Southeast,Suburban,Premium,Month-to-month,2,79.67,0,0,0,Debit card,1,0,0,0
+C122494,2019-09-04,77,51.0,Midwest,Suburban,Basic,Two year,1,29.67,1,0,1,Credit card,0,0,0,1
+C136803,2023-03-17,34,58.0,Southeast,Suburban,Basic,Month-to-month,1,22.76,0,0,0,Mailed check,1,0,0,0
+C107848,2025-08-03,5,26.0,Northeast,Urban,Premium,Month-to-month,2,84.16,0,0,1,Credit card,1,0,0,0
+C109546,2024-02-10,23,,Southeast,Suburban,Standard,One year,1,43.86,0,0,1,Credit card,0,0,1,0
+C143807,2022-04-21,45,37.0,Northeast,Urban,Premium,One year,3,118.19,0,0,0,Bank transfer,1,0,0,0
+C129676,2024-11-06,14,66.0,West,Urban,Unlimited,Month-to-month,1,69.1,0,0,1,Credit card,0,0,0,0
+C120833,2022-10-18,39,57.0,West,Suburban,Basic,Month-to-month,5,78.34,0,0,1,Debit card,1,11,0,1
+C106352,2018-12-08,86,74.0,Southeast,Suburban,Standard,One year,1,42.01,0,0,1,Credit card,0,0,0,0
+C117935,2019-05-07,81,49.0,West,Urban,Premium,Month-to-month,1,56.95,0,0,0,Credit card,1,20,0,0
+C140304,2021-11-22,50,52.0,Southeast,Suburban,Premium,Two year,2,93.53,1,0,1,Credit card,0,0,1,0
+C111284,2023-09-13,28,75.0,West,Urban,Basic,Two year,1,31.83,1,0,1,Credit card,0,24,0,0
+C109471,2025-06-04,7,35.0,Northeast,Rural,Basic,Month-to-month,1,26.07,0,0,1,Debit card,1,0,0,1
+C148666,2021-02-25,59,34.0,Southeast,Urban,Premium,Two year,2,80.05,0,0,1,Bank transfer,0,0,0,0
+C128368,2024-01-11,24,35.0,West,Suburban,Premium,One year,1,69.65,1,1,1,Bank transfer,0,0,0,0
+C111921,2023-01-16,36,59.0,Midwest,Suburban,Standard,One year,1,42.15,0,0,1,Debit card,1,0,0,1
+C142875,2023-10-13,27,73.0,Southeast,Rural,Premium,Two year,5,174.89,1,0,1,Credit card,0,0,0,0
+C117009,2024-07-09,18,59.0,West,Rural,Unlimited,Month-to-month,3,157.69,1,0,0,Mailed check,1,17,1,0
+C103221,2022-05-21,44,45.0,Northeast,Suburban,Basic,Two year,1,24.15,0,0,0,,0,17,0,0
+C119497,2021-03-27,58,72.0,West,Suburban,Standard,Two year,2,60.42,0,0,1,Credit card,1,0,1,0
+C108827,2023-09-13,28,34.0,West,Urban,Unlimited,Two year,1,67.89,0,0,1,Debit card,0,0,0,1
+C120112,2025-09-02,4,42.0,Northeast,Urban,Premium,Month-to-month,2,86.36,0,0,0,Credit card,0,8,0,0
+C115758,2019-02-06,84,21.0,Southeast,Urban,Basic,One year,2,39.35,0,0,0,Credit card,1,0,1,1
+C142774,2025-11-01,2,58.0,Southwest,Suburban,Unlimited,Month-to-month,3,153.92,0,1,1,Credit card,1,9,0,1
+C141046,2025-09-02,4,50.0,Southeast,Urban,Basic,Month-to-month,2,37.27,0,0,1,Credit card,1,0,1,0
+C120949,2025-09-02,4,70.0,Northeast,Urban,Premium,Month-to-month,3,117.86,0,0,1,Credit card,1,0,0,0
+C105457,2021-07-25,54,55.0,Northeast,Urban,Basic,One year,1,25.54,0,1,0,Credit card,1,0,0,0
+C133055,2024-12-06,13,36.0,West,Suburban,Standard,Month-to-month,3,81.85,0,0,0,Credit card,0,0,1,0
+C115626,2025-09-02,4,45.0,Southeast,Urban,Basic,Month-to-month,1,25.27,0,0,1,Credit card,1,0,1,0
+C129420,2024-12-06,13,56.0,Southeast,Rural,Standard,Month-to-month,1,38.35,0,0,0,Bank transfer,1,0,1,0
+C119374,2024-05-10,20,30.0,Southeast,Urban,Unlimited,Month-to-month,2,104.93,0,0,1,Debit card,1,0,0,0
+C116435,2019-07-06,79,18.0,Southeast,Suburban,Standard,One year,1,49.84,0,1,1,Bank transfer,0,0,0,0
+C115087,2024-08-08,17,,West,Urban,Premium,One year,2,88.91,0,0,0,Mailed check,1,0,1,0
+C119690,2022-12-17,37,60.0,Midwest,Urban,Standard,One year,1,38.84,0,0,1,Debit card,0,0,0,0
+C125658,2025-10-02,3,44.0,Midwest,Suburban,Standard,Month-to-month,2,61.88,0,0,0,Debit card,0,0,0,0
+C102417,2025-05-05,8,31.0,Northeast,Urban,Unlimited,Month-to-month,2,109.56,0,0,1,Bank transfer,1,6,0,0
+C143264,2018-07-11,91,26.0,Southeast,Rural,Premium,One year,2,84.62,0,0,0,Mailed check,0,15,0,0
+C146228,2025-12-01,1,56.0,Southwest,Rural,Standard,Month-to-month,1,36.75,0,0,1,Credit card,1,0,0,0
+C136075,2025-03-06,10,40.0,Southwest,Urban,Unlimited,One year,4,189.22,0,0,1,Bank transfer,1,18,0,0
+C103386,2025-12-01,1,61.0,Southwest,Suburban,Unlimited,Month-to-month,1,68.52,0,0,0,Mailed check,1,0,0,1
+C101884,2020-05-01,69,43.0,West,Urban,Standard,Month-to-month,4,108.05,0,0,1,Bank transfer,1,4,1,1
+C121876,2024-06-09,19,56.0,Northeast,Urban,Unlimited,One year,1,78.77,0,1,0,Bank transfer,0,8,1,0
+C147104,2023-12-12,25,32.0,Southeast,Suburban,Standard,One year,1,41.25,0,0,1,Bank transfer,0,3,0,0
+C122691,2022-01-21,48,50.0,West,Urban,Standard,One year,1,37.92,0,0,1,Credit card,1,0,0,0
+C108029,2018-02-11,96,65.0,West,Suburban,Unlimited,One year,4,196.35,1,0,1,Bank transfer,1,0,1,1
+C102938,2024-06-09,19,42.0,Northeast,Rural,Basic,Month-to-month,2,51.72,1,0,0,Credit card,1,0,0,1
+C149228,2021-04-26,57,53.0,Northeast,Rural,Basic,One year,2,,1,0,0,Bank transfer,0,0,1,0
+C100523,2023-05-16,32,39.0,Southwest,Urban,Basic,One year,1,25.31,0,0,1,Credit card,1,0,0,1
+C149763,2025-12-01,1,31.0,West,Rural,Standard,Month-to-month,3,89.77,0,0,1,Debit card,0,0,0,0
+C111793,2025-04-05,9,54.0,Southwest,Urban,Standard,Month-to-month,1,40.08,0,0,0,Bank transfer,1,0,1,0
+C101341,2018-02-11,96,62.0,Southeast,Suburban,Standard,Two year,2,65.16,0,1,0,Bank transfer,0,0,1,1
+C124708,2025-12-01,1,47.0,Midwest,Suburban,Premium,Month-to-month,2,81.32,0,0,1,Bank transfer,1,0,0,0
+C142679,2023-03-17,34,55.0,Midwest,Suburban,Standard,One year,3,82.3,0,0,0,Bank transfer,1,0,0,0
+C136461,2025-06-04,7,50.0,Midwest,Suburban,Premium,Month-to-month,2,99.99,1,0,0,Debit card,1,0,0,0
+C124160,2023-10-13,27,56.0,West,Suburban,Standard,Month-to-month,1,37.91,0,0,0,Mailed check,1,0,1,0
+C137654,2024-08-08,17,18.0,Southeast,Urban,Premium,Month-to-month,2,86.27,0,0,0,Credit card,1,0,0,0
+C139423,2022-03-22,46,46.0,Southeast,SUBURBAN,Standard,Two year,1,52.42,1,0,1,Credit card,0,0,1,0
+C122334,2025-06-04,7,26.0,Southwest,Rural,Unlimited,Month-to-month,3,154.24,0,1,0,Bank transfer,1,0,0,0
+C134849,2023-09-13,28,27.0,West,Suburban,Premium,One year,2,91.03,0,0,0,Credit card,0,0,0,0
+C116658,2022-11-17,38,78.0,West,Urban,Premium,One year,3,117.66,0,0,1,Bank transfer,1,6,1,0
+C149587,2025-06-04,7,63.0,Northeast,Urban,Basic,Month-to-month,2,45.15,1,0,1,Debit card,0,3,0,0
+C120965,2019-08-05,78,22.0,Northeast,Rural,Basic,One year,2,39.35,0,0,1,Bank transfer,1,0,0,0
+C133684,2024-02-10,23,48.0,Northeast,Suburban,Standard,Month-to-month,4,115.34,1,0,0,Debit card,0,0,0,0
+C128104,2025-01-05,12,43.0,Northeast,Suburban,Premium,Month-to-month,2,86.52,0,0,0,Mailed check,0,16,1,0
+C136332,2024-04-10,21,62.0,Southwest,Rural,Basic,Month-to-month,4,75.2,1,0,0,Bank transfer,1,0,0,0
+C117212,2025-11-01,2,58.0,Midwest,Urban,Unlimited,Month-to-month,1,78.65,1,0,1,Debit card,1,2,0,0
+C113872,2020-01-02,73,60.0,Southeast,Urban,Premium,Two year,1,53.98,0,0,1,Debit card,1,0,1,0
+C124228,2020-02-01,72,71.0,Midwest,Urban,Basic,Month-to-month,2,37.27,0,0,1,Bank transfer,1,0,1,0
+C132662,2021-10-23,51,30.0,West,Urban,Premium,Two year,2,82.99,0,0,0,Mailed check,0,6,1,1
+C141961,2022-02-20,47,53.0,West,Suburban,Standard,One year,1,39.5,0,0,1,Bank transfer,1,0,0,0
+C134552,2024-03-11,22,44.0,Northeast,Urban,Basic,One year,2,47.49,1,0,1,Credit card,0,15,0,0
+C139942,2025-01-05,12,18.0,West,Rural,Premium,Month-to-month,1,53.14,0,0,0,Mailed check,0,0,0,0
+C118840,2024-12-06,13,43.0,Midwest,Urban,Premium,One year,2,90.25,0,1,1,Credit card,1,0,0,1
+C109590,2020-05-01,69,39.0,West,Suburban,Basic,One year,2,36.92,0,0,1,Bank transfer,0,0,1,1
+C145400,2023-09-13,28,50.0,Midwest,Urban,Premium,One year,4,148.1,0,0,1,Debit card,0,17,0,0
+C105030,2025-12-01,1,35.0,Northeast,Urban,Premium,Month-to-month,1,53.1,0,0,1,Bank transfer,1,0,1,0
+C130091,2023-08-14,29,49.0,Southeast,Suburban,Standard,One year,2,58.79,0,0,0,Credit card,0,0,0,0
+C102023,2025-07-04,6,37.0,Southwest,Rural,Premium,Month-to-month,2,88.47,0,0,0,Credit card,1,7,0,0
+C147176,2019-11-03,75,46.0,Southeast,Suburban,Standard,One year,5,126.75,0,0,1,Debit card,1,0,1,0
+C112739,2024-06-09,19,52.0,West,Urban,Premium,One year,2,84.2,0,0,0,Credit card,0,0,1,0
+C123300,2024-02-10,23,18.0,Southeast,Suburban,Basic,Month-to-month,1,33.55,1,0,0,Credit card,1,0,1,0
+C120137,2025-04-05,9,50.0,Southwest,Urban,Standard,Month-to-month,2,71.52,1,0,1,Debit card,1,1,1,0
+C145191,2025-08-03,5,65.0,Southeast,Rural,Standard,Month-to-month,2,68.52,1,0,0,Credit card,1,0,0,0
+C123150,2025-09-02,4,63.0,Southwest,Suburban,Unlimited,Month-to-month,2,105.87,0,0,0,Credit card,0,0,0,0
+C127548,2022-07-20,42,56.0,Northeast,Suburban,Premium,Month-to-month,1,53.7,0,0,0,Mailed check,1,0,0,1
+C114581,2022-09-18,40,60.0,Midwest,Urban,Standard,Month-to-month,2,69.84,1,0,1,Debit card,0,0,0,0
+C105145,2023-06-15,31,29.0,Southeast,Urban,Standard,Two year,2,67.4,1,0,1,Credit card,1,13,0,1
+C131779,2023-11-12,26,36.0,Southeast,Urban,Standard,Two year,1,42.33,0,0,1,Bank transfer,0,11,1,0
+C136637,2022-04-21,45,-1.0,Northeast,Urban,Premium,Two year,1,59.14,1,0,0,Bank transfer,0,21,0,0
+C110669,2022-12-17,37,20.0,West,Rural,Basic,Month-to-month,1,23.06,0,0,1,Credit card,1,13,1,0
+C129134,2025-10-02,3,43.0,West,Urban,Basic,One year,1,22.08,0,0,1,Bank transfer,1,0,0,0
+C141197,2023-02-15,35,47.0,Midwest,Urban,Unlimited,One year,2,118.12,1,0,0,Credit card,1,0,0,0
+C101453,2024-06-09,19,56.0,Northeast,Rural,Premium,Two year,1,55.58,0,0,1,Credit card,1,8,0,0
+C134232,2018-11-08,87,,Southeast,Suburban,Premium,One year,1,54.49,0,0,0,Credit card,1,9,0,0
+C137901,2022-02-20,47,62.0,Midwest,Suburban,Basic,Two year,2,44.5,1,0,1,Bank transfer,0,0,0,0
+C104876,2025-10-02,3,32.0,Midwest,Rural,Standard,Month-to-month,1,39.68,0,0,1,Credit card,1,0,0,0
+C139947,2023-09-13,28,60.0,Northeast,Rural,Basic,One year,1,24.46,0,0,0,Mailed check,0,13,1,0
+C132970,2024-12-06,13,81.0,West,Suburban,Standard,Two year,3,76.66,0,0,1,Credit card,0,0,0,0
+C136266,2024-09-07,16,55.0,Midwest,Suburban,Basic,One year,2,52.31,1,0,0,Bank transfer,1,0,1,0
+C143038,2018-10-09,88,42.0,Southeast,Suburban,Basic,One year,1,21.16,0,0,0,Mailed check,0,4,1,0
+C128164,2024-02-10,23,32.0,Southeast,Rural,Standard,One year,2,71.36,1,0,0,Credit card,1,13,0,0
+C119832,2024-01-11,24,18.0,West,Suburban,Standard,One year,1,46.31,1,0,1,Bank transfer,0,8,1,0
+C128148,2025-06-04,7,43.0,West,Urban,Premium,Month-to-month,2,95.64,1,0,1,Credit card,0,7,0,1
+C105651,2024-02-10,23,66.0,West,Urban,Premium,Month-to-month,1,66.73,1,0,0,Credit card,1,0,1,0
+C136273,2025-10-02,3,33.0,West,Urban,Premium,Month-to-month,2,95.23,1,0,0,Debit card,1,2,1,0
+C109868,2025-10-02,3,58.0,Southeast,Urban,Standard,Month-to-month,1,39.08,0,0,1,Bank transfer,1,0,0,0
+C105474,2025-02-04,11,23.0,Midwest,Urban,Basic,One year,4,82.97,1,1,0,Debit card,0,0,0,0
+C135824,2022-04-21,45,23.0,Northeast,Suburban,Premium,Month-to-month,2,78.22,0,0,1,Bank transfer,0,0,0,0
+C141868,2024-07-09,18,18.0,Southeast,Urban,Basic,Month-to-month,1,38.24,1,0,0,Debit card,0,20,1,0
+C123216,2025-08-03,5,37.0,Northeast,Suburban,Standard,Month-to-month,4,112.41,0,0,1,Credit card,0,0,1,0
+C146620,2020-03-02,71,34.0,Midwest,Suburban,Standard,One year,5,140.17,1,0,0,Bank transfer,0,22,0,0
+C104001,2024-12-06,13,39.0,Southeast,Suburban,Unlimited,Month-to-month,2,104.54,0,0,1,Credit card,0,0,0,0
+C140016,2025-01-05,12,31.0,Northeast,Suburban,Standard,Month-to-month,1,53.87,1,0,1,Credit card,0,0,0,0
+C145738,2025-12-01,1,56.0,Midwest,Suburban,Basic,Month-to-month,4,66.78,0,0,0,Credit card,0,14,0,0
+C144299,2024-04-10,21,67.0,Midwest,Urban,Unlimited,Month-to-month,2,121.6,1,1,0,Mailed check,0,0,1,1
+C133301,2024-05-10,20,35.0,Southwest,Urban,Standard,Month-to-month,3,95.22,0,1,1,Credit card,1,24,1,0
+C131434,2025-05-05,8,44.0,Southeast,Urban,Premium,Month-to-month,1,64.54,1,0,1,Debit card,1,20,0,0
+C133231,2022-06-20,43,18.0,West,Suburban,Basic,Two year,1,32.77,1,0,1,Credit card,0,16,0,0
+C147677,2019-03-08,83,50.0,Southeast,Rural,Premium,Month-to-month,1,53.19,0,0,0,Credit card,0,0,0,1
+C119599,2024-07-09,18,28.0,Northeast,Urban,Standard,Month-to-month,1,37.11,0,0,1,Credit card,1,0,0,0
+C110198,2023-02-15,35,28.0,Northeast,Urban,Premium,One year,5,173.34,0,0,1,Credit card,1,6,0,0
+C117894,2023-02-15,35,,Midwest,Urban,Standard,Month-to-month,2,62.02,0,0,0,Credit card,0,0,0,0
+C113922,2025-11-01,2,53.0,Northeast,Urban,Unlimited,Month-to-month,2,116.85,1,0,0,Credit card,1,21,1,0
+C133226,2025-04-05,9,56.0,West,Suburban,Premium,Two year,5,179.4,1,0,1,Credit card,1,0,1,0
+C147652,2025-02-04,11,42.0,Northeast,Suburban,Unlimited,One year,1,77.81,1,0,0,Bank transfer,0,0,0,0
+C140942,2022-01-21,48,37.0,Northeast,Urban,Standard,Month-to-month,4,120.18,1,0,0,Mailed check,0,0,0,1
+C115938,2023-09-13,28,42.0,West,Suburban,Premium,One year,2,82.88,0,0,1,Bank transfer,0,0,0,0
+C145582,2025-03-06,10,,Midwest,Rural,Standard,One year,1,40.74,0,0,1,Debit card,0,6,1,0
+C108518,2023-02-15,35,50.0,Midwest,Urban,Basic,One year,1,42.97,1,0,0,Mailed check,0,14,0,0
+C129436,2024-04-10,21,21.0,Southeast,Urban,Basic,Month-to-month,3,64.78,1,0,1,Credit card,0,0,0,0
+C131411,2023-10-13,27,49.0,Midwest,Suburban,Premium,Month-to-month,2,95.04,0,1,1,Credit card,0,0,0,0
+C143704,2025-09-02,4,18.0,Southwest,Urban,Premium,Month-to-month,2,89.85,0,0,1,Credit card,1,0,1,0
+C149822,2024-05-10,20,55.0,West,Suburban,Standard,Month-to-month,2,65.3,0,0,0,Bank transfer,0,0,1,1
+C136985,2023-02-15,35,37.0,Southeast,Urban,Basic,One year,1,34.25,1,0,1,Credit card,1,0,0,0
+C107839,2023-09-13,28,64.0,Northeast,SUBURBAN,Basic,Month-to-month,2,39.31,0,0,0,Bank transfer,0,11,0,0
+C124781,2023-11-12,26,48.0,Midwest,Suburban,Premium,Month-to-month,2,92.86,1,0,1,Debit card,1,0,0,0
+C105078,2023-12-12,25,54.0,West,Suburban,Basic,Month-to-month,2,51.05,0,1,0,Credit card,1,0,1,1
+C112664,2023-09-13,28,42.0,Southwest,Suburban,Premium,Month-to-month,1,63.14,1,0,0,Mailed check,1,0,1,0
+C102774,2019-12-03,74,41.0,West,Suburban,Unlimited,One year,1,71.06,0,0,1,Bank transfer,1,0,1,0
+C139126,2024-04-10,21,42.0,Northeast,Suburban,Basic,Month-to-month,4,74.9,1,0,1,Credit card,1,0,0,0
+C109524,2024-07-09,18,39.0,Northeast,Suburban,Basic,Month-to-month,1,18.8,0,0,0,Debit card,1,0,0,1
+C109153,2024-07-09,18,48.0,Northeast,Urban,Unlimited,Two year,5,220.71,0,1,1,Credit card,1,10,0,0
+C126173,2023-11-12,26,39.0,Southeast,Suburban,Basic,One year,1,26.38,0,0,0,Mailed check,0,0,1,0
+C134296,2025-12-01,1,44.0,Northeast,Suburban,Premium,Month-to-month,1,53.24,0,0,1,Bank transfer,1,0,0,0
+C148737,2021-08-24,53,55.0,West,Suburban,Standard,Two year,1,37.04,0,0,1,Credit card,1,9,1,1
+C144234,2024-01-11,24,63.0,Southeast,Urban,Premium,Two year,5,164.82,0,0,0,Debit card,1,19,1,0
+C128755,2024-03-11,22,31.0,Southeast,Suburban,Premium,One year,1,58.34,0,0,1,Credit card,1,7,0,0
+C143887,2025-08-03,5,40.0,Northeast,Rural,Standard,Month-to-month,2,60.31,0,0,1,Credit card,0,10,0,0
+C140488,2023-09-13,28,36.0,Midwest,Urban,Standard,Month-to-month,1,39.65,0,0,0,Mailed check,1,0,0,0
+C138341,2025-04-05,9,44.0,Northeast,Suburban,Unlimited,Month-to-month,1,66.98,0,0,1,Bank transfer,1,0,0,0
+C104461,2025-06-04,7,62.0,Northeast,Urban,Basic,Month-to-month,1,19.66,0,0,1,Bank transfer,0,8,0,0
+C114665,2025-10-02,3,51.0,Northeast,Suburban,Standard,Month-to-month,5,126.71,0,0,0,Bank transfer,1,0,0,0
+C131983,2024-04-10,21,42.0,Northeast,Rural,Standard,One year,3,86.98,0,0,0,Debit card,1,15,0,0
+C146278,2021-06-25,55,41.0,Northeast,Suburban,Standard,One year,2,80.33,1,1,0,Mailed check,0,0,0,1
+C113094,2024-05-10,20,55.0,Midwest,Urban,Premium,Month-to-month,1,63.37,1,0,0,Credit card,1,0,1,0
+C122621,2025-11-01,2,50.0,Midwest,Suburban,Basic,Month-to-month,3,63.75,1,0,0,Bank transfer,1,1,0,0
+C100604,2020-07-30,66,63.0,Northeast,Suburban,Unlimited,Two year,4,180.62,0,0,1,Credit card,0,0,0,1
+C133461,2021-06-25,55,40.0,West,Rural,Standard,Month-to-month,2,61.89,0,0,1,,1,4,0,0
+C105794,2024-11-06,14,38.0,Southeast,Urban,Basic,One year,2,39.44,0,0,1,Debit card,1,0,0,0
+C137325,2025-12-01,1,22.0,West,Suburban,Premium,Month-to-month,2,85.96,0,0,1,Bank transfer,1,0,0,0
+C111469,2024-06-09,19,42.0,Northeast,Rural,Premium,One year,3,112.32,0,0,1,Credit card,1,0,0,0
+C126722,2024-07-09,18,38.0,Southeast,Urban,Standard,Month-to-month,2,74.89,1,0,0,Debit card,0,16,0,0
+C144213,2025-07-04,6,55.0,Southwest,Urban,Basic,Month-to-month,4,66.55,0,0,1,Bank transfer,1,9,0,0
+C121215,2024-11-06,14,49.0,Midwest,Rural,Premium,One year,1,56.6,0,0,1,Bank transfer,1,0,0,0
+C122200,2020-05-01,69,36.0,Northeast,Rural,Standard,Two year,4,116.74,1,1,1,Bank transfer,1,0,1,0
+C145014,2024-03-11,22,43.0,Southwest,Urban,Basic,One year,2,32.8,0,0,1,Credit card,1,18,1,1
+C121316,2025-09-02,4,29.0,Southwest,Urban,Standard,Month-to-month,1,37.25,0,0,0,Mailed check,1,0,1,0
+C127315,2025-08-03,5,51.0,Northeast,Urban,Basic,Month-to-month,1,44.77,1,1,0,Mailed check,0,17,0,0
+C109933,2025-12-01,1,38.0,Midwest,Urban,Premium,Month-to-month,2,88.03,0,0,0,Credit card,0,0,0,0
+C104522,2018-02-11,96,36.0,Southwest,Urban,Premium,One year,1,54.95,0,0,0,Debit card,1,0,1,1
+C113076,2025-04-05,9,63.0,Southwest,Rural,Basic,Month-to-month,4,68.87,0,0,0,Bank transfer,1,14,0,0
+C135688,2025-11-01,2,46.0,Northeast,Suburban,Standard,Month-to-month,1,41.93,0,0,0,Credit card,0,0,1,1
+C123346,2023-12-12,25,45.0,Southwest,Urban,Basic,Month-to-month,3,56.16,0,0,1,Credit card,1,0,1,0
+C141841,2023-08-14,29,30.0,West,Urban,Standard,One year,2,61.22,0,0,1,Bank transfer,0,0,0,0
+C112522,2023-11-12,26,,Southeast,Urban,Premium,Two year,2,85.24,1,0,1,Credit card,0,0,0,0
+C134904,2025-05-05,8,38.0,Southwest,Urban,Basic,Month-to-month,2,38.0,0,0,0,Debit card,0,0,1,1
+C101965,2024-10-07,15,34.0,Southeast,Urban,Standard,Month-to-month,1,36.89,0,0,0,Mailed check,1,12,1,0
+C131244,2024-09-07,16,32.0,West,Urban,Premium,Month-to-month,1,67.27,1,0,1,Debit card,1,22,0,0
+C143745,2025-09-02,4,26.0,Midwest,Urban,Premium,Month-to-month,1,54.81,0,0,0,Mailed check,0,7,1,0
+C115676,2018-02-11,96,56.0,Midwest,Suburban,Unlimited,Two year,4,187.1,1,0,0,Debit card,1,0,1,1
+C122879,2025-02-04,11,45.0,Northeast,Suburban,Unlimited,Month-to-month,1,73.61,0,0,0,Mailed check,0,0,1,0
+C113731,2025-05-05,8,57.0,West,Suburban,Standard,Month-to-month,2,65.7,0,0,0,Mailed check,0,0,0,0
+C112261,2023-07-15,30,31.0,West,Suburban,Basic,Month-to-month,1,37.13,0,1,1,Credit card,1,0,0,0
+C135415,2025-04-05,9,29.0,Southeast,Rural,Basic,Month-to-month,1,21.32,0,0,1,Debit card,1,0,0,0
+C103143,2024-11-06,14,41.0,Southeast,Urban,Premium,Month-to-month,1,57.93,0,0,0,Debit card,0,2,0,0
+C101083,2020-08-29,65,39.0,Southwest,Rural,Premium,Two year,1,52.78,0,0,0,Bank transfer,0,0,0,0
+C120474,2018-10-09,88,64.0,Southeast,Urban,Unlimited,Two year,2,99.84,0,0,1,Debit card,0,0,0,1
+C105880,2024-04-10,21,48.0,Northeast,Rural,Standard,Month-to-month,1,48.69,1,0,1,Credit card,1,0,0,0
+C108185,2023-08-14,29,77.0,Southwest,Suburban,Standard,Two year,1,41.41,0,0,1,Credit card,1,0,0,0
+C149184,2023-12-12,25,18.0,Southwest,Rural,Premium,Month-to-month,1,63.53,0,1,1,Credit card,1,0,0,0
+C119101,2024-08-08,17,28.0,West,Suburban,Unlimited,Month-to-month,3,145.18,0,0,1,,1,2,1,0
+C129685,2023-11-12,26,25.0,Southwest,Rural,Premium,Month-to-month,2,81.23,0,0,1,Debit card,1,0,0,0
+C149528,2023-12-12,25,55.0,Southeast,Urban,Basic,One year,4,69.8,0,0,1,Credit card,1,15,0,0
+C132993,2018-02-11,96,40.0,West,Suburban,Basic,Two year,1,30.73,0,1,1,Credit card,0,0,0,0
+C135057,2025-08-03,5,18.0,Northeast,Suburban,Unlimited,Month-to-month,1,81.27,1,0,0,Credit card,1,13,0,0
+C135307,2024-12-06,13,18.0,Southwest,Urban,Basic,Month-to-month,3,49.66,0,0,0,Credit card,1,0,0,1
+C142681,2018-10-09,88,46.0,Midwest,Suburban,Standard,Month-to-month,2,73.01,1,0,0,Credit card,1,16,0,0
+C105017,2025-10-02,3,,West,Suburban,Standard,Month-to-month,3,92.82,0,1,1,Bank transfer,1,0,1,0
+C146062,2022-11-17,38,67.0,Northeast,Rural,Standard,Two year,3,82.44,0,0,1,Bank transfer,0,0,1,1
+C106350,2022-04-21,45,40.0,Midwest,Urban,Premium,One year,2,85.27,0,0,1,Debit card,1,0,0,0
+C141180,2025-11-01,2,38.0,Midwest,Suburban,Premium,Month-to-month,2,86.52,0,0,0,Debit card,1,0,0,0
+C114054,2025-09-02,4,61.0,Northeast,Urban,Basic,Month-to-month,1,31.51,1,0,0,Mailed check,0,23,0,1
+C134431,2022-08-19,41,33.0,West,Urban,Basic,One year,1,27.33,0,0,0,Bank transfer,1,0,0,0
+C126458,2024-01-11,24,56.0,Southeast,Suburban,Standard,Month-to-month,1,48.59,1,0,1,Credit card,1,21,0,0
+C125116,2024-11-06,14,54.0,Midwest,Suburban,Standard,Month-to-month,1,39.92,0,0,1,Bank transfer,0,0,1,0
+C122714,2024-12-06,13,53.0,Midwest,Rural,Premium,One year,1,51.38,0,0,1,Credit card,1,0,0,0
+C135135,2025-10-02,3,27.0,West,Rural,Basic,Month-to-month,1,34.69,1,0,0,Credit card,0,0,1,0
+C100251,2024-02-10,23,45.0,West, Suburban ,Unlimited,Two year,1,63.98,0,0,0,Bank transfer,0,21,1,0
+C146901,2025-09-02,4,40.0,West,Suburban,Standard,Month-to-month,1,43.37,0,0,0,Bank transfer,0,0,1,0
+C128093,2023-05-16,32,37.0,West,Suburban,Standard,Month-to-month,1,50.6,1,0,1,Bank transfer,0,0,0,0
+C109009,2022-10-18,39,42.0,Southwest,Urban,Basic,Month-to-month,4,64.81,0,0,1,Debit card,0,0,1,0
+C122186,2025-09-02,4,48.0,West,Suburban,Basic,Month-to-month,2,38.08,0,0,1,Debit card,0,0,0,0
+C130187,2021-12-22,49,54.0,Southeast,Urban,Standard,Month-to-month,5,127.6,0,0,1,Bank transfer,1,4,1,0
+C110244,2025-02-04,11,42.0,Southeast,Rural,Premium,Month-to-month,1,56.07,0,0,0,Bank transfer,1,0,1,0
+C121683,2018-02-11,96,37.0,Southwest,Suburban,Standard,Two year,1,39.19,0,0,1,Credit card,0,1,1,0
+C132819,2023-03-17,34,50.0,Northeast,Suburban,Basic,Month-to-month,4,70.44,0,0,1,Bank transfer,1,0,0,1
+C112017,2018-02-11,96,33.0,Midwest,Suburban,Standard,Two year,2,62.15,0,0,0,Credit card,1,0,0,0
+C119952,2025-09-02,4,29.0,Northeast,Rural,Basic,Month-to-month,1,24.59,0,0,0,Mailed check,1,0,0,0
+C124338,2019-10-04,76,34.0,Southwest,Suburban,Standard,Two year,4,100.09,0,0,0,Mailed check,0,0,0,1
+C148244,2025-09-02,4,26.0,Northeast,Suburban,Premium,Month-to-month,1,66.41,1,0,1,Bank transfer,1,0,0,1
+C146309,2025-01-05,12,44.0,Southwest,Urban,Basic,Month-to-month,1,24.96,0,0,0,Mailed check,0,14,0,0
+C103673,2025-10-02,3,32.0,Northeast,Rural,Basic,Month-to-month,1,23.74,0,0,1,Credit card,0,0,0,0
+C115580,2024-02-10,23,51.0,Southwest,Urban,Standard,Month-to-month,4,113.33,1,0,1,Bank transfer,0,0,0,1
+C135119,2024-06-09,19,48.0,Northeast,Urban,Standard,Month-to-month,2,61.26,0,0,1,Credit card,0,0,1,0
+C127192,2024-04-10,21,41.0,Southeast,Urban,Basic,One year,1,36.01,1,0,0,Debit card,1,22,0,0
+C143752,2022-11-17,38,35.0,Southeast,Rural,Standard,One year,4,105.47,0,0,1,Credit card,1,0,0,1
+C134943,2021-08-24,53,18.0,Southwest,Rural,Premium,One year,5,178.01,0,0,0,Credit card,1,9,1,0
+C101742,2022-10-18,39,71.0,Northeast,Rural,Standard,Month-to-month,1,48.94,1,0,1,Credit card,0,10,0,1
+C118554,2023-07-15,30,63.0,Northeast,Suburban,Unlimited,Two year,1,69.37,0,0,1,Credit card,1,0,0,1
+C122044,2022-11-17,38,41.0,Northeast,Rural,Standard,Two year,2,66.05,1,0,1,Credit card,0,0,0,0
+C140653,2024-05-10,20,70.0,Northeast,Suburban,Standard,Month-to-month,1,58.22,1,1,1,Credit card,0,2,1,0
+C111724,2022-06-20,43,58.0,Northeast,suburban,Standard,Month-to-month,1,34.06,0,0,0,Debit card,1,0,0,1
+C118906,2023-12-12,25,50.0,Midwest,Urban,Basic,Month-to-month,4,74.07,1,0,0,Bank transfer,1,4,0,0
+C146944,2025-09-02,4,49.0,Midwest,Rural,Standard,Month-to-month,3,88.32,1,0,1,Debit card,1,1,0,0
+C129638,2024-06-09,19,50.0,Northeast,Urban,Unlimited,Month-to-month,4,183.15,0,0,0,Debit card,0,0,0,0
+C148245,2025-09-02,4,53.0,Northeast,Suburban,Standard,Month-to-month,2,68.35,0,1,1,Credit card,0,0,1,0
+C102223,2025-04-05,9,51.0,Southeast,Urban,Premium,Month-to-month,3,114.72,0,0,1,Credit card,1,0,0,0
+C126727,2025-05-05,8,50.0,West,Suburban,Unlimited,Month-to-month,5,235.57,1,0,0,Mailed check,1,0,0,0
+C142905,2024-05-10,20,29.0,West,Suburban,Unlimited,Month-to-month,1,68.56,0,0,0,Mailed check,1,0,1,0
+C131470,2024-09-07,16,58.0,Midwest,Urban,Basic,Month-to-month,1,25.27,0,0,1,Debit card,1,0,0,1
+C103991,2022-10-18,39,67.0,Southwest,Urban,Unlimited,Month-to-month,4,191.72,0,1,0,Debit card,1,0,1,0
+C143963,2025-08-03,5,34.0,Southeast,Urban,Premium,Month-to-month,4,147.59,0,0,1,Bank transfer,1,0,1,0
+C139618,2024-11-06,14,47.0,West,Suburban,Premium,Month-to-month,1,70.83,1,0,1,Credit card,1,0,0,0
+C128027,2025-12-01,1,49.0,Northeast,Suburban,Premium,Month-to-month,2,83.77,0,0,1,Bank transfer,1,0,1,0
+C141049,2021-11-22,50,56.0,Northeast,Suburban,Premium,Month-to-month,4,143.91,0,0,0,Bank transfer,1,11,0,0
+C122517,2023-12-12,25,47.0,Midwest, Rural ,Basic,Month-to-month,2,41.15,0,0,0,Bank transfer,1,0,0,0
+C104117,2023-06-15,31,28.0,West,Rural,Standard,Two year,3,81.92,0,0,0,Credit card,0,0,0,1
+C132346,2024-02-10,23,42.0,Southeast,Suburban,Standard,Month-to-month,2,60.04,0,0,0,Debit card,1,8,1,1
+C135434,2022-12-17,37,58.0,Midwest,Rural,Standard,One year,1,43.7,0,0,1,Debit card,1,0,0,0
+C139209,2020-04-01,70,43.0,Southeast,Urban,Premium,Two year,1,62.33,1,0,0,Credit card,1,0,1,1
+C145699,2025-12-01,1,43.0,West,Suburban,Premium,Month-to-month,2,86.17,0,0,1,Credit card,1,0,1,0
+C131242,2020-09-28,64,38.0,West,Urban,Standard,Month-to-month,3,84.82,0,0,1,Credit card,1,0,0,0
+C112240,2022-01-21,48,49.0,Midwest,Suburban,Unlimited,One year,4,187.04,0,0,1,Credit card,0,14,1,0
+C111861,2018-02-11,96,37.0,Southwest,Urban,Standard,Two year,3,81.17,0,0,1,Credit card,1,0,1,0
+C118261,2025-01-05,12,45.0,Midwest,Rural,Standard,One year,1,48.41,1,0,1,Credit card,0,0,0,0
+C133527,2023-03-17,34,45.0,Southeast,Suburban,Standard,One year,1,42.62,0,0,1,Bank transfer,0,0,1,1
+C144633,2023-04-16,33,41.0,Southwest,Rural,Standard,One year,2,64.24,0,0,0,Credit card,1,0,0,0
+C142375,2023-04-16,33,41.0,Northeast,Suburban,Standard,One year,2,73.47,1,0,0,Credit card,1,17,0,0
+C119967,2025-05-05,8,33.0,West,Urban,Standard,Month-to-month,2,64.86,1,0,0,Debit card,1,20,0,0
+C117165,2021-07-25,54,36.0,Southeast,Urban,Standard,One year,1,56.05,1,0,1,Credit card,0,0,1,0
+C110156,2025-02-04,11,18.0,Midwest,Urban,Standard,Month-to-month,4,115.16,1,0,0,Debit card,1,12,0,0
+C117466,2025-09-02,4,41.0,Midwest,Suburban,Standard,Month-to-month,5,134.73,1,0,1,Bank transfer,1,23,0,1
+C125791,2023-12-12,25,54.0,Southeast,Urban,Standard,One year,1,39.93,0,0,1,Credit card,1,0,1,0
+C130813,2023-12-12,25,49.0,West,Rural,Standard,Month-to-month,2,60.77,0,0,0,Credit card,0,0,1,0
+C146387,2018-02-11,96,30.0,Southwest,Urban,Standard,Two year,3,77.64,0,0,0,Debit card,0,11,0,1
+C104705,2024-11-06,14,57.0,Midwest,Urban,Standard,Month-to-month,4,107.81,0,0,1,Credit card,1,0,0,1
+C111037,2022-01-21,48,42.0,Northeast,Rural,Unlimited,Month-to-month,4,187.23,0,0,0,Bank transfer,0,16,0,0
+C129097,2024-10-07,15,32.0,Northeast,Suburban,Basic,Month-to-month,1,20.64,0,0,0,Debit card,1,0,1,0
+C101396,2025-08-03,5,39.0,Midwest,Suburban,Unlimited,Month-to-month,1,70.89,0,0,1,Credit card,0,21,0,0
+C137775,2025-09-02,4,51.0,Southwest,Suburban,Standard,Month-to-month,1,39.47,0,0,0,Credit card,0,0,1,0
+C119559,2025-12-01,1,58.0,Southeast,Urban,Standard,Month-to-month,3,82.96,0,0,0,Bank transfer,1,0,1,0
+C120224,2022-04-21,45,44.0,West,Suburban,Standard,Two year,3,81.7,0,0,1,Credit card,0,0,1,0
+C100915,2018-02-11,96,31.0,Southeast,Urban,Standard,Two year,2,56.0,0,0,1,Credit card,0,0,0,0
+C137059,2021-10-23,51,,Northeast,Urban,Standard,Two year,3,78.02,0,0,1,Debit card,0,12,0,1
+C147987,2024-03-11,22,45.0,West,Suburban,Premium,Two year,2,96.7,1,0,1,,1,0,1,0
+C133404,2023-08-14,29,44.0,Southwest,Urban,Standard,Month-to-month,3,96.89,1,0,1,Credit card,1,0,1,0
+C144766,2021-12-22,49,58.0,Southeast,Suburban,Standard,Month-to-month,4,107.85,0,0,1,Debit card,0,0,0,1
+C143911,2025-12-01,1,62.0,Northeast,Suburban,Basic,Month-to-month,3,51.94,0,0,0,Mailed check,1,11,0,1
+C100090,2025-05-05,8,53.0,Midwest,Urban,Basic,Month-to-month,1,28.81,0,1,1,Bank transfer,0,0,0,0
+C145309,2024-01-11,24,21.0,Midwest,Suburban,Standard,Two year,2,57.93,0,0,1,Bank transfer,1,6,0,0
+C119416,2025-08-03,5,55.0,Midwest,Rural,Standard,Month-to-month,4,104.69,0,0,0,Mailed check,1,0,1,0
+C147008,2022-12-17,37,52.0,Midwest,Suburban,Standard,One year,2,60.43,0,0,1,Bank transfer,0,2,1,0
+C104555,2024-06-09,19,55.0,West,Rural,Standard,One year,1,40.69,0,0,0,Debit card,0,0,0,0
+C123938,2018-02-11,96,39.0,West,Urban,Premium,One year,2,93.27,0,1,1,Debit card,0,0,1,1
+C129138,2025-05-05,8,41.0,Northeast,Urban,Premium,Month-to-month,3,120.24,0,1,1,Debit card,0,1,0,0
+C116187,2020-10-28,63,45.0,Southwest,Urban,Standard,One year,2,60.39,0,0,1,Debit card,1,16,0,0
+C138902,2025-08-03,5,60.0,West,Rural,Standard,Month-to-month,1,50.2,1,0,0,Credit card,1,18,1,1
+C130783,2019-03-08,83,20.0,Northeast,Rural,Standard,Two year,1,39.49,0,0,1,Credit card,1,5,1,0
+C149826,2018-02-11,96,44.0,Southeast,Rural,Premium,Two year,4,136.38,0,0,1,Debit card,1,0,1,1
+C101728,2022-09-18,40,58.0,Midwest,Urban,Standard,Month-to-month,2,63.52,0,0,1,Credit card,0,3,1,1
+C141734,2024-06-09,19,62.0,Northeast,Suburban,Standard,Month-to-month,2,64.3,0,0,1,Bank transfer,1,0,0,1
+C137245,2023-04-16,33,28.0,Northeast,Suburban,Standard,One year,1,42.46,0,0,1,Bank transfer,0,0,1,0
+C113087,2024-09-07,16,36.0,Southwest,Rural,Premium,Month-to-month,3,120.19,0,0,1,Credit card,1,0,0,0
+C112690,2023-02-15,35,26.0,Midwest,Urban,Premium,Month-to-month,3,114.99,0,0,1,Credit card,1,19,0,0
+C106932,2018-02-11,96,46.0,Southwest,Rural,Standard,One year,2,60.11,0,0,0,Credit card,0,22,1,1
+C147610,2020-05-31,68,57.0,Southeast,Urban,Premium,Two year,2,91.36,0,1,1,Bank transfer,1,0,0,0
+C142332,2025-12-01,1,44.0,West,Urban,Standard,Month-to-month,5,124.31,0,0,1,Credit card,1,0,0,0
+C100175,2024-12-06,13,53.0,Southeast,Urban,Premium,Month-to-month,1,52.01,0,0,1,Debit card,1,0,1,0
+C127081,2024-06-09,19,24.0,Midwest,Urban,Basic,Month-to-month,2,36.26,0,0,0,Credit card,1,0,0,0
+C129491,2025-03-06,10,,Southwest,Rural,Premium,Month-to-month,3,112.43,0,0,1,Debit card,1,0,0,0
+C142532,2024-01-11,24,57.0,West,Rural,Basic,Two year,1,23.07,0,0,0,Mailed check,0,1,1,1
+C147765,2025-04-05,9,61.0,Southwest,Rural,Premium,Month-to-month,1,52.58,0,0,1,Bank transfer,0,6,0,0
+C142646,2025-06-04,7,24.0,Southeast,Suburban,Basic,Two year,5,82.98,1,0,1,Credit card,1,0,0,0
+C138409,2022-08-19,41,57.0,Midwest,Urban,Standard,One year,1,47.48,1,0,1,Bank transfer,1,0,0,1
+C122189,2023-06-15,31,64.0,Northeast,Urban,Standard,One year,2,61.31,0,0,1,Debit card,1,0,0,0
+C145488,2022-05-21,44,66.0,Southeast,Rural,Standard,One year,2,71.38,1,0,0,Mailed check,1,17,1,0
+C104177,2021-06-25,55,46.0,Southwest,Urban,Basic,Two year,5,78.35,0,0,1,Credit card,1,0,0,0
+C118497,2023-03-17,34,65.0,Southeast,Urban,Basic,One year,3,64.43,1,0,1,Bank transfer,1,0,1,0
+C116049,2022-03-22,46,46.0,West,Suburban,Premium,One year,1,65.57,1,0,1,Debit card,1,0,1,1
+C116362,2022-06-20,43,52.0,Southeast,Suburban,Standard,Two year,2,59.19,0,0,1,,1,12,1,0
+C141601,2025-07-04,6,64.0,West,Rural,Standard,Month-to-month,2,63.18,0,0,1,Credit card,0,0,1,0
+C125275,2022-05-21,44,68.0,Midwest,Urban,Standard,One year,1,37.46,0,0,1,Bank transfer,0,0,0,0
+C118007,2022-12-17,37,38.0,Southeast,Urban,Basic,Month-to-month,1,19.31,0,0,1,Bank transfer,1,13,1,0
+C143506,2025-04-05,9,65.0,Southwest,Suburban,Basic,Month-to-month,2,47.19,1,0,0,Credit card,1,0,1,1
+C146765,2020-10-28,63,47.0,West,Suburban,Basic,One year,2,46.19,0,1,0,Mailed check,1,0,0,0
+C148740,2023-01-16,36,52.0,Midwest,Rural,Unlimited,Two year,2,117.43,1,1,0,Mailed check,0,0,0,0
+C125415,2023-05-16,32,46.0,Southwest,Urban,Standard,One year,1,42.17,0,0,1,Credit card,0,0,0,0
+C102616,2025-10-02,3,54.0,West,Rural,Unlimited,Month-to-month,1,72.96,0,0,0,Bank transfer,0,0,0,0
+C131969,2025-06-04,7,53.0,Midwest,Urban,Premium,Month-to-month,2,89.45,0,0,0,Credit card,0,23,0,0
+C137126,2024-07-09,18,59.0,Midwest,Suburban,Premium,Month-to-month,4,157.44,1,0,0,Mailed check,1,0,1,0
+C148731,2020-06-30,67,18.0,Southeast,Urban,Premium,Month-to-month,1,51.77,0,0,1,Bank transfer,1,0,0,1
+C100194,2025-11-01,2,58.0,Northeast,Suburban,Premium,Month-to-month,2,95.35,1,0,1,Debit card,1,0,1,1
+C121056,2024-06-09,19,38.0,Southwest,Urban,Standard,Two year,2,58.36,0,0,1,Bank transfer,1,0,0,0
+C142835,2019-07-06,79,18.0,Midwest,Suburban,Unlimited,One year,5,227.42,0,0,1,Credit card,0,0,0,1
+C127509,2025-07-04,6,40.0,Midwest,Rural,Basic,Month-to-month,1,24.68,0,0,0,Bank transfer,0,0,0,0
+C131494,2025-04-05,9,85.0,Southwest,Rural,Unlimited,Month-to-month,2,108.49,0,0,0,Credit card,1,0,0,0
+C144050,2023-11-12,26,63.0,Midwest,Urban,Premium,Month-to-month,4,142.07,0,0,0,Credit card,1,0,1,0
+C135958,2024-08-08,17,69.0,Midwest,Suburban,Basic,Month-to-month,3,60.53,1,0,0,Mailed check,1,0,0,0
+C116014,2023-08-14,29,79.0,Midwest,Rural,Unlimited,Month to month,3,143.87,0,0,1,Debit card,0,0,0,0
+C133748,2021-04-26,57,58.0,Northeast,Urban,Premium,One year,4,155.72,1,0,0,Credit card,0,0,0,0
+C132266,2018-09-09,89,51.0,Northeast,Rural,Premium,One year,1,52.03,0,0,1,Bank transfer,0,24,1,1
+C100349,2024-12-06,13,45.0,Midwest,Suburban,Unlimited,Month-to-month,4,186.79,0,0,0,Mailed check,0,0,0,0
+C127524,2023-06-15,31,40.0,Northeast,Urban,Standard,Two year,2,58.26,0,0,1,Credit card,1,0,0,0
+C144715,2024-07-09,18,53.0,Southwest,Urban,Basic,One year,1,24.45,0,0,1,Credit card,1,10,1,0
+C118487,2025-10-02,3,59.0,Northeast,Suburban,Standard,Month-to-month,4,106.85,0,0,0,Credit card,0,18,0,0
+C103060,2023-06-15,31,67.0,Midwest,urban,Unlimited,One year,1,66.58,0,0,0,Debit card,1,0,0,0
+C133481,2025-06-04,7,52.0,Southeast,Suburban,Basic,Two year,2,58.55,1,1,1,Bank transfer,0,0,0,0
+C111365,2018-02-11,96,56.0,Southeast,Urban,Premium,Two year,1,66.01,1,0,1,Bank transfer,1,0,1,0
+C120330,2025-01-05,12,46.0,Midwest,Urban,Premium,Month-to-month,3,116.59,0,0,0,Bank transfer,0,0,1,0
+C137996,2025-03-06,10,41.0,Southwest,Suburban,Standard,Month-to-month,1,37.63,0,0,0,Bank transfer,1,0,1,0
+C114017,2025-06-04,7,58.0,Southeast,Suburban,Unlimited,Month-to-month,1,70.98,0,0,0,Credit card,1,11,0,1
+C113891,2021-07-25,54,42.0,Southeast,suburban,Basic,Two year,2,42.75,0,1,1,Credit card,0,10,1,1
+C123232,2021-12-22,49,58.0,Northeast,Rural,Basic,Two year,1,28.74,1,0,1,Bank transfer,1,20,0,0
+C130584,2023-07-15,30,35.0,Southwest,Rural,Basic,Two year,1,23.61,0,0,0,Credit card,1,0,0,0
+C111866,2025-10-02,3,40.0,Midwest,Rural,Premium,Month-to-month,3,115.01,0,0,1,Bank transfer,1,0,0,0
+C142921,2024-07-09,18,50.0,West,Rural,Standard,Month-to-month,1,35.27,0,0,0,Debit card,1,21,0,0
+C134272,2025-01-05,12,31.0,Northeast,Rural,Premium,Two year,3,104.72,0,0,1,Debit card,1,0,0,0
+C120287,2021-09-23,52,18.0,Southeast,Urban,Standard,One year,4,105.83,0,0,1,Credit card,1,0,0,0
+C115769,2023-08-14,29,55.0,West,Urban,Standard,One year,1,51.41,0,1,1,Credit card,1,0,0,0
+C133275,2025-07-04,6,54.0,Northeast,Suburban,Standard,One year,1,39.48,0,0,1,Credit card,1,0,0,1
+C118568,2021-07-25,54,44.0,Southeast,Suburban,Standard,Two year,2,64.28,1,0,0,Debit card,0,0,1,1
+C111851,2022-07-20,42,65.0,Northeast,Urban,Standard,Month-to-month,1,47.43,1,0,0,Credit card,0,0,0,0
+C127144,2025-08-03,5,49.0,West,Urban,Basic,Two year,1,31.82,1,0,1,Credit card,1,0,0,0
+C126376,2024-01-11,24,32.0,Southwest,Urban,Basic,Month-to-month,1,25.48,0,0,1,Debit card,1,3,1,1
+C112784,2022-06-20,43,51.0,Northeast,Suburban,Standard,One year,2,61.28,0,0,1,Bank transfer,1,0,0,0
+C112430,2025-04-05,9,54.0,Southeast,Urban,Basic,Month-to-month,4,63.64,0,0,0,Bank transfer,0,0,0,0
+C131997,2018-02-11,96,55.0,Northeast,Rural,Standard,Two year,4,95.97,0,0,1,Bank transfer,1,0,0,1
+C129222,2022-12-17,37,42.0,Northeast,Suburban,Unlimited,Month-to-month,2,109.41,0,0,1,Debit card,0,17,1,1
+C140477,2022-10-18,39,47.0,Northeast,Urban,Premium,One year,4,154.05,1,0,0,Debit card,1,13,1,0
+C102861,2024-05-10,20,48.0,West,Urban,Premium,Month-to-month,1,53.84,0,0,1,Credit card,1,0,1,0
+C141644,2024-01-11,24,,Southwest,Urban,Premium,One year,2,94.06,1,0,0,Mailed check,1,0,0,1
+C112645,2018-02-11,96,49.0,Northeast,Rural,Standard,Two year,3,78.65,0,0,1,Bank transfer,0,13,1,0
+C147178,2024-09-07,16,26.0,West,Urban,Premium,Month-to-month,4,,1,0,1,Credit card,1,0,0,0
+C116972,2020-05-31,68,51.0,Southwest,Urban,Standard,Two year,2,64.4,0,0,1,Bank transfer,0,0,1,0
+C143695,2025-08-03,5,38.0,Midwest,Rural,Basic,Month-to-month,2,38.77,0,0,0,Credit card,1,6,1,0
+C109552,2024-05-10,20,51.0,Midwest,Urban,Premium,One year,1,60.97,0,1,1,Debit card,0,13,0,0
+C141776,2020-12-27,61,,West,Urban,Premium,One year,5,176.87,0,0,1,Credit card,0,19,1,0
+C115970,2024-04-10,21,28.0,Southeast,Suburban,Standard,Month-to-month,4,108.97,0,0,0,Mailed check,1,14,1,1
+C120405,2020-04-01,70,29.0,Midwest,Suburban,Basic,Two year,1,31.36,0,0,1,Bank transfer,1,0,1,0
+C130435,2024-11-06,14,20.0,West,Rural,Premium,Month-to-month,1,67.88,1,0,0,Mailed check,1,0,0,0
+C136419,2020-08-29,65,59.0,Southwest,Suburban,Basic,Two year,3,52.76,0,0,1,Credit card,1,0,0,0
+C133800,2025-12-01,1,38.0,Northeast,Urban,Unlimited,Month-to-month,3,151.95,0,0,1,Credit card,0,1,0,0
+C105499,2025-01-05,12,29.0,Northeast,Urban,Premium,Month-to-month,3,125.09,1,0,0,Bank transfer,0,0,0,0
+C111279,2022-11-17,38,46.0,Midwest,Urban,Standard,Month-to-month,3,86.53,0,0,0,Mailed check,1,0,0,1
+C115284,2023-05-16,32,48.0,West,Urban,Premium,Month-to-month,4,142.45,0,0,0,Credit card,1,0,1,0
+C105959,2025-05-05,8,28.0,West,Urban,Unlimited,Month-to-month,1,73.61,0,0,0,Mailed check,0,0,1,0
+C103571,2025-02-04,11,68.0,Southeast,Rural,Premium,Month-to-month,4,154.41,1,0,0,Debit card,0,13,0,1
+C103085,2021-10-23,51,23.0,West,Suburban,Basic,Month-to-month,3,54.21,0,0,1,Credit card,1,0,0,1
+C123018,2023-02-15,35,49.0,West,Suburban,Standard,One year,2,64.9,0,0,0,Mailed check,1,0,1,0
+C129539,2025-11-01,2,71.0,Southeast,Urban,Standard,Month-to-month,4,125.83,1,1,1,Debit card,0,0,0,0
+C138023,2021-11-22,50,55.0,West,Urban,Premium,Month-to-month,1,66.37,1,0,1,Credit card,0,0,1,1
+C137858,2018-02-11,96,45.0,Northeast,Suburban,Standard,Two year,2,69.98,1,0,1,Debit card,1,0,0,0
+C131518,2025-07-04,6,18.0,Northeast,Urban,Unlimited,Month-to-month,5,221.23,0,0,1,Bank transfer,1,0,0,0
+C127771,2023-06-15,31,57.0,Midwest,Rural,Standard,Month-to-month,1,,0,0,1,Debit card,1,14,0,0
+C144543,2024-12-06,13,56.0,West,Suburban,Standard,Month-to-month,2,73.1,1,0,1,Debit card,0,0,1,0
+C129878,2025-04-05,9,57.0,Southeast,Suburban,Standard,Month-to-month,2,62.03,0,0,1,Debit card,1,0,0,1
+C104296,2025-06-04,7,42.0,West,Suburban,Premium,Month-to-month,1,57.12,0,0,0,Debit card,1,0,1,0
+C108651,2021-11-22,50,46.0,West,Urban,Standard,Two year,2,59.72,0,0,1,Credit card,1,0,1,1
+C104140,2022-04-21,45,,Midwest,Rural,Basic,Month-to-month,1,34.88,1,0,0,Credit card,0,0,0,0
+C149792,2024-11-06,14,26.0,Southwest,Suburban,Basic,Month-to-month,2,37.51,0,0,1,Credit card,1,19,1,0
+C118523,2025-12-01,1,44.0,Midwest,Suburban,Unlimited,Month-to-month,5,231.93,1,0,0,Debit card,1,0,0,0
+C106663,2019-06-06,80,57.0,Northeast,Suburban,Standard,Two year,3,79.08,0,0,0,Debit card,1,0,0,1
+C139894,2023-11-12,26,65.0,Southeast,Suburban,Standard,Two year,2,60.81,0,0,1,Debit card,0,18,0,0
+C136733,2024-06-09,19,35.0,Midwest,Urban,Basic,Month-to-month,3,61.86,1,0,0,Mailed check,1,0,0,0
+C120205,2022-05-21,44,47.0,Southwest,Urban,Unlimited,One year,1,70.51,0,0,0,Mailed check,1,0,0,1
+C125577,2024-10-07,15,32.0,Northeast,Suburban,Premium,One year,2,96.59,1,0,1,Debit card,0,10,1,0
+C112704,2024-05-10,20,51.0,Southwest,Urban,Unlimited,Month-to-month,3,146.36,0,0,1,Bank transfer,1,13,0,0
+C141882,2025-01-05,12,31.0,West,Suburban,Standard,Month-to-month,1,41.69,0,0,1,Credit card,1,24,0,1
+C137915,2025-04-05,9,19.0,Northeast,Suburban,Standard,One year,3,84.74,0,0,1,Debit card,1,0,1,0
+C140813,2025-10-02,3,,Southwest,Rural,Standard,Month-to-month,2,62.59,0,0,1,Bank transfer,0,0,1,0
+C108072,2024-08-08,17,20.0,Southwest,Suburban,Unlimited,Month-to-month,3,147.7,0,0,1,Bank transfer,1,0,0,0
+C117668,2025-07-04,6,39.0,Southwest,Suburban,Basic,Month-to-month,1,,0,0,1,Credit card,0,1,0,0
+C113328,2023-08-14,29,51.0,West,Urban,Basic,Month-to-month,2,49.46,1,0,1,Bank transfer,0,0,0,1
+C144842,2025-09-02,4,50.0,Northeast,Rural,Premium,One year,1,66.52,1,0,1,Bank transfer,1,0,0,1
+C127625,2019-01-07,85,64.0,Northeast,Suburban,Standard,TWO YEAR,2,58.69,0,0,1,Credit card,1,0,1,0
+C131539,2024-03-11,22,47.0,Southeast,Suburban,Basic,Month-to-month,2,36.43,0,0,1,Credit card,1,0,0,0
+C110834,2023-10-13,27,42.0,West,Urban,Premium,Month-to-month,2,83.35,0,0,1,Bank transfer,0,24,1,0
+C137169,2024-01-11,24,26.0,West,Urban,Standard,Month-to-month,1,51.52,0,1,1,Debit card,1,22,1,1
+C142143,2024-09-07,16,60.0,Southeast,Rural,Standard,Month-to-month,2,71.7,1,0,1,Credit card,1,16,0,0
+C130048,2024-10-07,15,41.0,Northeast,Urban,Basic,Month-to-month,2,48.94,0,1,0,Debit card,1,0,0,0
+C109333,2023-08-14,29,59.0,Midwest,Suburban,Basic,One year,5,84.96,0,1,0,Mailed check,1,0,0,0
+C120712,2023-10-13,27,39.0,Northeast,Urban,Basic,Month-to-month,2,36.05,0,0,0,Bank transfer,1,24,0,1
+C141628,2018-03-13,95,62.0,West,Urban,Basic,Two year,1,20.91,0,0,0,Credit card,0,6,1,1
+C121882,2023-01-16,36,34.0,Southeast,Suburban,Unlimited,One year,1,78.8,1,0,1,Bank transfer,1,0,0,0
+C105856,2025-06-04,7,57.0,Northeast,Suburban,Standard,One year,2,61.76,0,0,1,Bank transfer,0,0,0,0
+C113614,2021-06-25,55,57.0,Midwest,Urban,Standard,Two year,1,46.46,1,0,0,Mailed check,1,0,1,1
+C115016,2023-04-16,33,52.0,Midwest,Urban,Unlimited,Month-to-month,2,110.18,0,0,0,Mailed check,1,0,0,0
+C112151,2019-05-07,81,43.0,Southwest,Urban,Standard,Two year,1,40.14,0,0,0,Bank transfer,1,0,0,0
+C124229,2019-05-07,81,18.0,Northeast,Urban,Standard,One year,1,40.65,0,0,1,Bank transfer,0,6,1,1
+C136277,2023-06-15,31,33.0,Southwest,Suburban,Basic,Month-to-month,1,28.56,1,0,1,Debit card,1,0,0,0
+C136671,2019-01-07,85,34.0,West,Urban,Standard,One year,2,63.37,0,0,0,Bank transfer,1,15,0,0
+C125087,2025-02-04,11,60.0,Midwest,Rural,Premium,Two year,2,79.42,0,0,1,Bank transfer,1,3,0,0
+C118583,2023-05-16,32,25.0,Southeast,Urban,Premium,Two year,1,61.56,0,1,1,Bank transfer,1,16,1,1
+C143608,2023-08-14,29,56.0,Southeast,Urban,Premium,Month-to-month,1,73.85,1,1,1,Debit card,1,0,0,0
+C148736,2025-04-05,9,35.0,West,Urban,Basic,Month-to-month,1,37.37,1,0,0,Credit card,1,2,0,0
+C119853,2018-02-11,96,41.0,Southeast,Urban,Unlimited,Two year,1,68.92,0,0,1,Bank transfer,1,0,0,1
+C115002,2025-02-04,11,75.0,West,Urban,Standard,Month-to-month,2,73.24,1,0,1,Credit card,1,11,0,0
+C102990,2022-02-20,47,26.0,West,SUBURBAN,Standard,One year,5,127.62,0,0,1,Bank transfer,1,0,0,0
+C107972,2020-06-30,67,52.0,Southwest,Rural,Premium,Month-to-month,1,73.0,1,1,0,Credit card,1,0,1,0
+C115689,2018-02-11,96,,Northeast,Rural,Unlimited,Two year,1,77.13,1,0,1,Debit card,1,0,0,1
+C143946,2022-05-21,44,41.0,West,Urban,Unlimited,Two year,2,104.21,0,0,1,Credit card,1,15,1,0
+C125992,2025-08-03,5,39.0,Midwest,Suburban,Premium,Month-to-month,3,119.63,0,0,0,Bank transfer,1,0,0,1
+C129501,2024-05-10,20,62.0,Southwest,Suburban,Basic,One year,2,41.1,0,0,1,Bank transfer,0,0,1,0
+C116445,2025-07-04,6,57.0,Midwest,Rural,Basic,One year,2,41.53,0,0,1,Bank transfer,0,0,1,1
+C120478,2024-07-09,18,18.0,Midwest,Suburban,Premium,Month-to-month,3,123.24,0,1,0,Bank transfer,1,0,0,0
+C119775,2022-06-20,43,34.0,Midwest,Urban,Standard,Month-to-month,3,86.91,0,0,0,Debit card,0,20,0,0
+C112328,2024-12-06,13,18.0,West,Suburban,Premium,Month-to-month,3,118.74,0,0,0,Mailed check,0,0,1,1
+C133783,2022-10-18,39,37.0,Northeast,Urban,Standard,One year,3,84.56,0,0,0,Bank transfer,1,0,1,0
+C134572,2025-09-02,4,29.0,West,Suburban,Basic,Month-to-month,2,43.42,0,0,1,Credit card,0,2,1,0
+C136176,2025-05-05,8,48.0,Southeast,Urban,Unlimited,Month-to-month,2,107.14,0,0,0,Credit card,0,0,0,0
+C129118,2023-09-13,28,19.0,Southwest,Rural,Unlimited,Two year,1,65.17,0,0,1,Credit card,0,0,1,0
+C141533,2022-07-20,42,45.0,Southeast,Urban,Unlimited,One year,2,108.31,0,0,0,Bank transfer,0,0,0,0
+C102521,2021-06-25,55,54.0,Midwest,Urban,Standard,One year,2,61.31,0,0,1,Bank transfer,0,0,0,0
+C124436,2025-08-03,5,42.0,West,Suburban,Standard,Month-to-month,4,104.11,0,0,0,Mailed check,0,8,1,1
+C139322,2024-06-09,19,50.0,Midwest,Rural,Standard,Month-to-month,1,41.63,0,0,1,Credit card,1,17,0,0
+C143296,2025-01-05,12,48.0,Southwest,Suburban,Standard,Month-to-month,2,70.79,1,0,0,Credit card,0,0,0,1
+C128940,2024-03-11,22,54.0,Southwest,Rural,Standard,Month-to-month,1,35.58,0,0,1,Bank transfer,0,0,0,0
+C144957,2022-10-18,39,52.0,Southwest,Suburban,Premium,One year,1,62.71,1,0,0,Credit card,1,0,0,0
+C114953,2022-06-20,43,75.0,Northeast,Rural,Basic,Month-to-month,2,47.93,1,0,1,Debit card,1,0,1,0
+C126360,2025-11-01,2,51.0,Northeast,Suburban,Basic,Month-to-month,2,57.11,1,1,1,Credit card,1,20,0,1
+C129577,2018-04-12,94,71.0,Southwest,Rural,Unlimited,Two year,1,76.65,0,1,1,Credit card,1,2,1,1
+C103291,2021-01-26,60,56.0,Southwest,Suburban,Premium,One year,1,53.55,0,0,1,Credit card,1,0,1,0
+C106032,2024-03-11,22,51.0,Midwest,Urban,Basic,Month-to-month,4,63.33,0,0,0,Mailed check,1,0,0,0
+C115738,2025-01-05,12,28.0,Southeast,Urban,Unlimited,Month-to-month,3,146.49,0,0,1,Bank transfer,1,14,0,0
+C107308,2024-03-11,22,51.0,Southeast,Urban,Unlimited,Month-to-month,4,188.86,0,0,0,Bank transfer,1,0,0,0
+C132747,2025-06-04,7,22.0,Southwest,Urban,Standard,One year,1,42.75,0,0,0,Credit card,1,0,0,0
+C101674,2019-07-06,79,50.0,Northeast,Suburban,Standard,One year,3,86.25,0,0,0,Credit card,0,0,0,0
+C141615,2022-03-22,46,28.0,Midwest,Suburban,Standard,Month-to-month,1,38.8,0,0,0,Mailed check,1,0,0,0
+C102725,2022-02-20,47,49.0,Southeast,Rural,Standard,One year,1,48.61,1,0,0,Mailed check,0,0,1,1
+C123626,2024-12-06,13,39.0,Northeast,Urban,Standard,Month-to-month,1,39.01,0,0,0,Mailed check,1,0,1,0
+C101825,2024-02-10,23,37.0,Southeast,Suburban,Standard,Month-to-month,1,41.97,0,0,0,Debit card,0,0,1,0
+C143270,2024-12-06,13,51.0,Northeast,Urban,Premium,Month-to-month,1,54.1,0,0,1,Bank transfer,1,0,0,0
+C123659,2022-12-17,37,50.0,Midwest,Suburban,Premium,One year,2,95.46,1,0,1,Credit card,0,0,0,0
+C131545,2024-07-09,18,49.0,Midwest,Rural,Premium,Month-to-month,4,147.19,0,0,1,Credit card,0,0,0,0
+C129178,2021-10-23,51,52.0,Northeast,Suburban,Standard,Two year,1,36.18,0,0,1,Credit card,1,0,0,0
+C121338,2024-01-11,24,62.0,West,Suburban,Basic,Two year,1,25.74,0,0,1,Credit card,1,0,0,0
+C101021,2018-10-09,88,48.0,Midwest,Urban,Premium,One year,4,155.84,0,1,1,Credit card,1,0,1,1
+C122322,2020-05-31,68,51.0,Southeast,Urban,Basic,One year,1,27.71,0,0,1,Credit card,0,20,0,1
+C103763,2025-06-04,7,31.0,Southeast,Urban,Premium,Month-to-month,1,56.04,0,0,1,Debit card,1,7,1,0
+C113650,2019-11-03,75,42.0,Northeast,Urban,Unlimited,One year,2,107.5,0,0,0,Mailed check,1,12,0,1
+C144111,2022-04-21,45,63.0,West,Suburban,Premium,One year,4,145.85,0,0,0,Bank transfer,0,14,0,1
+C141469,2024-10-07,15,39.0,Southeast,Rural,Premium,Two year,1,52.75,0,0,1,Credit card,0,21,1,0
+C116993,2025-06-04,7,43.0,Southeast,Suburban,Standard,One year,4,103.75,0,0,1,Credit card,0,4,0,0
+C133875,2024-10-07,15,39.0,Southeast,Urban,Basic,One year,2,39.51,0,0,1,Credit card,1,0,0,1
+C104645,2023-08-14,29,68.0,Southeast,Rural,Unlimited,Two year,2,101.71,0,0,0,Mailed check,0,0,0,1
+C123603,2025-06-04,7,47.0,Southeast,Suburban,Standard,Month-to-month,1,41.28,0,0,0,Bank transfer,1,0,1,0
+C138059,2025-02-04,11,62.0,Southwest,Rural,Basic,Month-to-month,3,60.27,1,0,1,Debit card,0,0,0,0
+C138766,2025-12-01,1,67.0,Midwest,Urban,Unlimited,Month-to-month,2,115.37,0,1,0,Bank transfer,1,20,0,0
+C114591,2024-06-09,19,28.0,West,Urban,Unlimited,Two year,3,144.3,0,0,1,Debit card,1,0,0,0
+C128791,2020-02-01,72,43.0,Midwest,Urban,Standard,Two year,1,41.99,0,0,1,Credit card,1,0,1,1
+C139825,2025-10-02,3,52.0,Midwest,Urban,Basic,Month-to-month,1,26.27,0,0,1,Credit card,0,23,0,1
+C138264,2022-08-19,41,29.0,Northeast,rural,Premium,One year,1,57.77,0,0,1,Credit card,1,22,1,0
+C147291,2024-09-07,16,45.0,Northeast,Rural,Basic,Month-to-month,2,51.93,1,0,1,Credit card,1,5,0,0
+C127703,2025-12-01,1,66.0,Southeast,Suburban,Standard,Month-to-month,2,66.49,0,0,1,Credit card,1,10,0,0
+C147270,2023-02-15,35,41.0,Southwest,Suburban,Standard,Month-to-month,3,99.17,0,1,0,Debit card,1,0,0,0
+C135557,2023-02-15,35,35.0,West,Urban,Standard,Two year,3,87.92,1,0,1,Credit card,0,24,1,0
+C106001,2024-08-08,17,47.0,Southwest,Urban,Unlimited,Month-to-month,1,69.64,0,0,0,Debit card,1,0,0,0
+C145258,2025-02-04,11,73.0,Northeast,Suburban,Standard,Month-to-month,3,86.15,0,0,0,Bank transfer,1,6,0,0
+C146535,2023-03-17,34,40.0,Southwest,Urban,Basic,One year,1,27.78,0,0,1,Debit card,0,0,0,0
+C128652,2024-04-10,21,34.0,Northeast,Urban,Basic,Month-to-month,4,65.76,0,0,1,Credit card,0,22,1,0
+C148872,2024-02-10,23,32.0,Southeast,Urban,Premium,One year,3,126.19,1,0,1,Credit card,0,0,0,0
+C143098,2022-11-17,38,78.0,Southeast,Urban,Basic,Two year,1,35.45,1,0,1,Debit card,1,3,1,0
+C108597,2023-07-15,30,54.0,Southwest,Urban,Standard,One year,2,73.34,1,0,1,Debit card,1,22,0,0
+C110440,2025-08-03,5,64.0,Southeast,Suburban,Standard,Month-to-month,1,40.49,0,0,1,Credit card,1,0,1,0
+C107428,2024-02-10,23,36.0,Southwest,Urban,Basic,One year,1,21.59,0,0,0,Bank transfer,0,0,0,0
+C113202,2021-05-26,56,61.0,Midwest,Rural,Standard,Month-to-month,3,86.76,0,0,1,Credit card,0,0,0,1
+C138350,2024-01-11,24,31.0,West,Rural,Standard,One year,2,61.58,0,0,0,Credit card,1,0,0,0
+C104114,2020-04-01,70,51.0,Southwest,Urban,Standard,One year,3,84.46,0,0,1,Bank transfer,1,22,0,1
+C122287,2024-05-10,20,45.0,Midwest,Suburban,Premium,Month-to-month,3,115.19,0,0,1,Credit card,0,10,0,1
+C130293,2023-11-12,26,59.0,Southeast,Rural,Basic,Month-to-month,2,36.36,0,0,1,Debit card,1,0,1,0
+C125300,2022-05-21,44,53.0,West,Urban,Basic,One year,2,38.38,0,0,1,Debit card,1,0,0,1
+C136648,2021-09-23,52,31.0,Southeast,Suburban,Standard,Two year,4,108.33,0,1,1,Bank transfer,1,0,0,1
+C105650,2023-07-15,30,55.0,Northeast,URBAN,Unlimited,Two year,1,75.23,1,0,0,Debit card,0,8,1,1
+C132862,2025-08-03,5,58.0,Midwest,Urban,Basic,One year,5,91.5,1,0,1,Credit card,0,0,0,0
+C115276,2024-03-11,22,44.0,Midwest,Urban,Basic,Month-to-month,2,55.65,1,1,0,Credit card,0,22,0,1
+C118664,2024-10-07,15,46.0,Southeast,Suburban,Basic,Month-to-month,1,33.33,0,1,1,Bank transfer,1,0,0,0
+C112597,2025-07-04,6,21.0,West,Urban,Unlimited,Month-to-month,1,72.61,0,0,1,Credit card,1,0,0,0
+C134059,2025-10-02,3,51.0,Northeast,Urban,Basic,Month-to-month,3,52.65,0,0,1,Debit card,0,12,0,0
+C145634,2018-02-11,96,33.0,West,Suburban,Unlimited,Two year,5,224.38,1,0,0,Mailed check,1,0,1,0
+C112044,2023-12-12,25,35.0,Southwest,Suburban,Premium,Month-to-month,1,54.13,0,0,1,Bank transfer,0,0,0,0
+C138224,2024-01-11,24,81.0,Southeast,Urban,Unlimited,Month-to-month,2,120.81,1,0,1,Credit card,1,0,0,0
+C144344,2025-10-02,3,44.0,Northeast,Urban,Standard,Month-to-month,4,112.74,0,1,0,Debit card,1,18,0,0
+C128104,2025-01-05,12,43.0,Northeast,Suburban,Premium,Month-to-month,2,86.52,0,0,0,Mailed check,0,16,1,0
+C117004,2021-03-27,58,27.0,West,Urban,Basic,Month-to-month,1,34.0,0,1,0,Bank transfer,1,0,0,0
